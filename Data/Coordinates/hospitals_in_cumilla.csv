@@ -1,0 +1,781 @@
+Place Name,Latitude,Longitude,Rating,User_Total_Rating,Types,Address,Place_ID
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Doctors Community Hospital,23.3767289,91.0576272,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Lalmai-Barura Road, Barura",ChIJGW1caQCIVDcRevbP5j3CqLA
+Renesa Hospital,23.37643,91.0580833,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Lalmai-Barura Road, Barura",ChIJU-jCegCIVDcRS3JiNVa6FZA
+Medicare Hospital,23.3764341,91.058567,4.8,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura Upazila,ChIJ591lAaSJVDcRXWg0noAZBYI
+"উপজেলা সাস্থ কমপ্লেক্স, বরুড়া উপজেলা, কুমিল্লা",23.3767261,91.0592553,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura,ChIJ2bOVMJmHVDcRPwIWzNgEG0U
+"Upazila Protibandhi Hospital, Barura",23.3764126,91.0496241,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura Road,ChIJFwd32gKIVDcRSBHF5Il6AMA
+"Surjer Hashi Clinic, Barura",23.3788102,91.0490609,4.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Barura-Jhalam Road, Barura",ChIJLSCuqgKIVDcRcgpLaPG-xLc
+Mukti Hospital (Pvt) Limited,23.374854,91.0616706,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Lalmai-Barura Road,ChIJKXBxuc2HVDcRW4tSrf0bbDc
+ফেয়ার হসপিটাল,23.3749196,91.0625293,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Barura Upazila, Barura Bazar moulovi Bazar, Barura,Comilla Barura bazar 3600",ChIJ5dNexf6HVDcRNaylyjrUQ3s
+Fair Hospital,23.3749325,91.062936,5,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura Upazila,ChIJzyO0z_6HVDcR97cezDA7TSQ
+Shurjer Hashi Medical Center,23.3892059,91.0542047,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Barura Upazila, Puran Kadba",ChIJPeGM3a1iVDcRXRutIWgh4uo
+PROTIBONDI SAHAJO SABE KINDRO,23.3814701,91.0312728,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura-Jhalam Road,ChIJYSddjRJjVDcRaWpDt7_NPXE
+"Medicare Hospital,Barura",23.3551064,91.0394635,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura Upazila,ChIJBbjyoOGJVDcRW1iIvDuTZYw
+Madina Pharmacy (Dr. M A Samad),23.4082455,91.0550925,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Moguji bazar Barura, Comilla",ChIJW3Ndi8tiVDcRE5DgC7efKEQ
+কমিউনিটি ক্লিনিক,23.3457944,91.0501596,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura Upazila,ChIJDdjpNXCIVDcRD3kVa6byOtg
+চোওরী কমিউনিটি ক্লিনিক,23.3457242,91.0501656,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","চোওরী, পোষ্ট অফিস:",ChIJNQlDjWKJVDcRwueBexVFA0Q
+Prime Hospital Barura,23.4039661,91.0877645,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Mowlovi Bazar,ChIJA31-1ft9VDcR2Ltl5cUlelg
+মা মেডিকেল হল,23.3942858,91.101936,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",বাতাইছরি,ChIJzSjxEvh9VDcRo8u50aSr82Q
+Laksam Diagnostic Center and Hospital,23.2372684,91.1238818,4.3,4,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Laksam",ChIJwapz8mKEVDcRrklR9RmWzh4
+Chandpuri shah Hospital,23.1822843,91.092512,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam,ChIJFdPLA9SaVDcRBGFQBFa7gMc
+M/S PROTEIN SOLUTION,23.270339,91.0454456,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam Upazila,ChIJI8__S8aPVDcR5M3Dq7OwprY
+Mudapharaganja Diagnostic Center,23.2693084,91.0433981,3.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla - Chandpur Highway, Muddafarganj",ChIJmyzNZUaPVDcRT5s7k3kYyEM
+Muddafarganj Health Care Hospital,23.272004,91.0487518,4.2,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla - Chandpur Highway, Muddafarganj",ChIJ27Wz_k-PVDcRuc6S1QT8f2g
+সূর্যের হাসি ক্লিনিক,23.2694646,91.0508132,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Laksam - Muddafarganj Road, Muddafarganj",ChIJPxh0zTmPVDcRBb0npoMyhSU
+Health Care Home,23.2721543,91.0489635,3,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla - Chandpur Highway, Muddafarganj",ChIJn6vq_U-PVDcRbKv3iUWRGAM
+Ansariya Modern Hospital,23.268295,91.054441,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Muddafarganj,ChIJaXurcFmPVDcRZcqCYO_YoI4
+Kalora Community Clinic,23.2914361,91.0360911,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura Upazila,ChIJh7A9FMmIVDcRNUpcJXBJDBE
+Surjer Hasi Clinic,23.2638228,91.086351,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam - Muddafarganj Road,ChIJV31LQDGFVDcROhFvSVBiDjw
+চন্ডিপুর সরকারি স্বাস্থ্য সেবা কেন্দ্র।,23.2332778,91.0252057,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura Upazila,ChIJCwKvKaaPVDcR9FZ6c0t2lrI
+Payalgacha Medical Centre,23.283737,91.0016468,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Payalgacha - Shantair Bazar Road,ChIJ46EBrcqOVDcRvFdhA-8G5V4
+মুগগাঁও কমিওনিটি ক্লিনিক,23.3136567,91.0401023,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Barura Upazila,ChIJs2U4sKeJVDcR68Bl6z3rGZ0
+Noapara Community Clinic,23.2633224,91.0960766,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam Upazila,ChIJU616O8uFVDcRsuVJluZUr0Y
+Chondipur Hospital,23.2277799,91.0241066,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","শাহরাস্তি উপজেলা, Chandipur",ChIJ4dJUm7iPVDcREB3j3VQU9ak
+SM Safi Hospital,23.3044347,91.0783312,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Puluya,ChIJI5t312qGVDcROP--JhpoRV0
+রায়শ্রী কমিউনিটি ক্লিনিক,23.2377233,91.0091933,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Shahrasti Upazila,ChIJlcAyIsaPVDcRv14mfvgWSeA
+মেসার্স বাংলাদেশ ফার্মাসী,23.2623794,90.9948434,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Jagatpur - Changini Road,ChIJFcahsL2OVDcRj-cAdFO7isI
+Payalgacha Health Community Center,23.2864262,90.9975371,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Kachua Upazila,ChIJHcA8c0uJVDcRscjde7GohLA
+Gyas Chowdhury Hospital,23.2864227,90.9975203,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Payalgacha - Shantair Bazar Road,ChIJiQwP65KJVDcR_nHCVQawBWo
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+কাকিয়ারচর কমিউনিটি ক্লিনিক,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কাকিয়ারচর,ChIJweQ6ozF_VDcR1aIqgnddjv0
+homio pathik collage,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla poraton, Chowdhury Para",ChIJ4aPj5y1_VDcRZWAFTAxEIMw
+"সেবা এ্যাম্বুলেন্স সার্ভিস,কুমিল্লা।",23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","কুমিল্লা মেডিক্যাল কলেজ হাসপাতাল,কুমিল্লা।, Cumilla",ChIJiQRjJ6x_VDcRIX6YtryVJoA
+Jalgaon kobiraj,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Cumilla",ChIJ8Xuzz-F9VDcRC8aIlfc0--4
+Pubg rj mental academy hall,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJCTfHZW1_VDcRC_llb3F816w
+Sharma Maternity Care,23.4606574,91.1809065,3.6,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madina Masjid Rd, Cumilla",ChIJG9V9ZyZ_VDcRbab8ETZMYD8
+Md.Nure Alam,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","গোপালনগর, কুমিল্লা",ChIJf4F5WSZ_VDcR_XhdOmU7Xj4
+Care Hospital,23.4606574,91.1809064,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","South Bangura . Bangura Bazar, কুমিল্লা",ChIJKS-EbQ5_VDcRGt46BI8b4vg
+Comilla Apollo Hospital,23.4593695,91.1808324,4.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJvx1NpyV_VDcRS6p9I-PhJNk
+Shohel Medical Hall,23.461679,91.1797508,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJ6bTWXy9_VDcRfdVjDRT6-lc
+Medi Teak,23.4613665,91.1794478,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Cumilla",ChIJ9WM4Xy9_VDcRO6vS7gmrBXA
+মেসার্স ফল্মি এন্টারপ্রাজ,23.4612986,91.1793006,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJfcmSnmp_VDcRJoj9ruqsHrk
+Brahmanpara Upazila Health Complex,23.6133333,91.0943145,4.7,6,"['hospital', 'health', 'point_of_interest', 'establishment']","Brahmanpara - Dulalpur GC Road, Brahmanpara",ChIJFcASVFRwVDcRsmSLDTrlcOI
+Boxanagar Community Health Centre,23.6107991,91.1738292,3.9,9,"['hospital', 'health', 'point_of_interest', 'establishment']","Boxanagar, Kalamchoura",ChIJLySfmAB3VDcRpuB_--sgq3A
+The Vision Hospital,23.6896965,91.0912514,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla - Mirpur Road,ChIJ11ZMqfxwVDcRNvsnPsacbnw
+Kasba Upazilla Health Complex,23.7488798,91.1393501,3.5,26,"['hospital', 'health', 'point_of_interest', 'establishment']","Rail Station - Araibari Road, Kasba",ChIJ2_Nkkah0VDcRoFW1SrqxqwM
+Jonone Daigonostic center,23.6148674,91.1066097,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Brahmanpara,ChIJL-sBy-JwVDcRP41_ywFv7ng
+Jononi diagnostic center,23.6148174,91.1068213,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Brahmanpara,ChIJdSPYy-JwVDcRc1jbeOADKLM
+"Madhumati Hospital, Brahmanpara",23.6126764,91.1066986,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Burichang - Brahmanpara Road, Brahmanpara",ChIJf2Zz6wBxVDcR8DBIH9WgHdQ
+Mhadumoti Hospital (pvt) Limited,23.6124144,91.1068578,4,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Brahmanpara,ChIJr02uNuNwVDcRKBzMQn9HoUs
+ব্রাহ্মানপারা ডায়াবেটিস ও জেনারেল হাসপাতাল (Brahmanpara diabetes and General Hospital),23.6119846,91.1068048,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Brahmanpara,ChIJpSEyu7hxVDcRt7NSDxO0nb8
+Vision hospital PLT,23.6116551,91.1067981,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","ব্রাক্ষণ পাড়া লাইন, এম এ গনি রোড",ChIJg8BnW21xVDcRjSn9BPoKJf4
+ভিশন হসপিটাল (প্রাঃ) লিঃ,23.6109073,91.1062996,4.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Burichang - Brahmanpara Road, Brahmanpara",ChIJS3l8wrFxVDcR4ICRuEIu7Qw
+The Vision Hospital দি ভিশন হসপিটাল,23.6108645,91.106175,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Major A.Gony Road, Brahmanpara",ChIJI-ykn1BxVDcRJyV--0_ZjTQ
+Upazila livestock office Brahmanpara,23.6094817,91.1058633,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Burichang - Brahmanpara Road, Brahmanpara",ChIJHdP6uZ5xVDcRfloXa5bBcTg
+Ashraf Telemedicine Shebakandra,23.5966923,91.090825,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahebabad Bazar Road, Brahmanpara",ChIJiRCxR1xwVDcRjBfPcIUdkXo
+"মনতলা হোমিও হল,বারেশ্ব্র চৌমোহনী।",23.5931981,91.1158758,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chowmohoni-Pachora Road,ChIJoaQwDclxVDcRBnH5bSKS7EA
+Swapan Pharmacy,23.5915498,91.0897631,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Trail/Path, Bangladesh",ChIJbbjwbmRxVDcRvi3X5VzQ5xw
+Shashidal Union Health Complex,23.6313584,91.1449707,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",,ChIJc8CstHV3VDcRQj9MBKOyW-w
+পূর্ণমতি কমিউনিটি ক্লিনিক,23.5823368,91.1179293,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']",ওয়ার্ড নং ৪,ChIJ-bOqlRZxVDcRJucBeJzQ-Tw
+উত্তর সাইচাপাড়া বজলু মাষ্টার বাড়ী,23.6061523,91.0558094,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","দেবীদ্বার উপজেলা, গ্রামঃ উত্তর সাইচাপাড়া, পোঃ মাদ্রাসা সুলতানপুর, থানাঃ দেবিদ্বার কুমিল্লা।",ChIJ70OLAi9vVDcRyIh-VlQvYDA
+Saichapara Community Clinic(সাইচাপাড়া কমিউনিটি ক্লিনিক),23.5907517,91.0619253,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Road, Fatehabad",ChIJo1i7IOVxVDcRgcupQij8q-w
+Brahmanpara Upazila Health Complex,23.6133333,91.0943145,4.7,6,"['hospital', 'health', 'point_of_interest', 'establishment']","Brahmanpara - Dulalpur GC Road, Brahmanpara",ChIJFcASVFRwVDcRsmSLDTrlcOI
+Boxanagar Community Health Centre,23.6107991,91.1738292,3.9,9,"['hospital', 'health', 'point_of_interest', 'establishment']","Boxanagar, Kalamchoura",ChIJLySfmAB3VDcRpuB_--sgq3A
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+"Upazila Livestock Office, Burichong, Cumilla.",23.5530996,91.1299439,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Burichang Upazila,ChIJRyRcJp17VDcR4GADAIhe9Ms
+Burichang model hospital,23.5556137,91.1266683,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla - Burichang Road, Burichang",ChIJrd9NAnR7VDcR-oXBhAHQhXA
+Adhunik Hospital And Diagnostic Centre,23.5558094,91.126796,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Burichong Road,ChIJUdnPuBp6VDcRk-Z7rTm4mAU
+"Upazilla Health Complex, Burichang.",23.5564665,91.126904,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Burichang Rajapur Road,ChIJQ-lcCfx7VDcR3h2XRkKNE8c
+Happy Medico,23.5565306,91.1270234,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Burichang Rajapur Road,ChIJe74oyhp6VDcRhBzA8fHkNCI
+"উপজেলা স্বাস্থ্য কমপ্লেক্স, বুড়িচং",23.557004,91.1271816,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Burichang,ChIJ4cWbNAV6VDcRRczjHJStOmc
+জগতপুর কমিউনিটি ক্লিনিক,23.5655375,91.1146577,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Burichang Upazila,ChIJJ-IHk817VDcRardw9YYt-Q4
+Dr. Kazi sahab uddin,23.5466582,91.100535,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","বুড়িচং উপজেলা, Uttar Jatrabari",ChIJI-xuM097VDcR65DjvGmphL4
+সেবা মেডিকেল হল,23.5388998,91.0957773,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Gobindapur,ChIJ41pXC_Z6VDcRMfEg7UcYM00
+পূর্ণমতি কমিউনিটি ক্লিনিক,23.5823368,91.1179293,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']",ওয়ার্ড নং ৪,ChIJ-bOqlRZxVDcRJucBeJzQ-Tw
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+National Hospital,23.4331982,91.1715952,4.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Near Jangalia Bus Stop, Laksham Road, Cumilla",ChIJ_8UQI3F_VDcR2a0aelmVnHw
+janma Center,23.4300714,91.172499,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJ-9L615B_VDcRKX7t2PihwXE
+Laksham Lit IHEALTH CARE Bangladesh,23.4409203,91.1740452,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Laksham Road, Cumilla",ChIJ7yEu6mJ_VDcRhuUvVRmcT3c
+Modern Hospital,23.4415216,91.1738989,3.8,42,"['hospital', 'health', 'point_of_interest', 'establishment']","Laksham Road, Cumilla",ChIJxy108h1_VDcRxF1QHcM9-fY
+Prime Medical Center,23.4204629,91.1724589,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Near Notun Paduar Bazar Jame Masjid , Paduar Bazar Biswa Road, Laksham Road, Cumilla",ChIJu0Lvl1R-VDcRT8pd4xPabtc
+Bijoypur Union Parishad Hospital,23.4331546,91.1580962,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Haratoli, Cumilla",ChIJI12pQr9_VDcRvCBtgzl5jJ8
+Madina Hospital ; Cumilla,23.4438689,91.1754505,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Laksham Road, Cumilla",ChIJ40S6cB5_VDcR6aSNQ8e12UQ
+হাসপাতাল,23.4425402,91.1813495,2.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","CML17, Cumilla",ChIJT0j_LRp_VDcR0K0XsieS9Jc
+Modina Hospital & Digital Diagnostic Lab,23.4455334,91.1765751,3,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Near by Ashrafpur Ek Gombuj Mosque, Laksham Road Madhyam Ashrafpur, Ashrafpur, Cumilla",ChIJb0Fa8B5_VDcR_66rcJsYI2w
+Sonar Bangla Hospital,23.447044,91.1774719,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJeTHqrSJ_VDcRB1OSEW-8UdE
+Union Health and Family Welfare Center,23.4317521,91.1536714,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","South Comilla, Haratoli, Sadar",ChIJ0foDaUB_VDcRwG-Fm7jHkSE
+Bijoypur Union Parishad Hospital,23.4315773,91.1530106,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Haratoli, Cumilla",ChIJtQy2pVh_VDcR5Gnjls42VPc
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Uzirpor Hospital,23.4813367,90.867472,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ3crZqixcVDcRrzwpS9tk47w
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Popular Digital X-Ray,23.489248,91.0083636,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Hospital Gate, Chandina",ChIJuQUngAhlVDcRfVGrsP9fBUo
+চান্দিনা মীম হসপিটাল,23.4892481,91.0083637,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina,ChIJVVVVVW5kVDcRTQuNl10wiO8
+Mohona Hospital,23.4892934,91.0085505,3.7,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Upazila Road, Chandina",ChIJeceaAG9kVDcRNaz16Gllw08
+Chandina Medical Center Private Ltd.,23.4873053,91.0082048,4.8,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Near court masjid, চান্দিনা",ChIJDe5S5HFkVDcRgBIdg_RN2Fg
+Aadarsho Homeo Hall,23.4888446,91.0044776,3,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhanshiree - Bus Stand Road, Chandina",ChIJvSxNsW1kVDcRi7axSOWFAMg
+Chandina General Hospital,23.4859335,91.0067757,2.8,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina,ChIJeaiL43FkVDcRpPYapt2L2eE
+Chandina Medical Pvt Ltd.,23.4859714,91.0064372,2.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Chandina Grand Trunk Road, Chandina",ChIJ8S6v_HFkVDcR_RMp9QhaBpE
+দত্ত ডেন্টাল কেয়ার,23.4871946,91.0048279,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Chandina",ChIJodqpWnZlVDcRLrNDiGD4Nrk
+"Upazila Livestock Office, Chandina",23.486147,91.0108408,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJW730Ub1lVDcRpXC_B-8YPDk
+Chandina Medinova Hospital,23.4898279,91.0010189,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhaka - Chittagong Highway, Chandina",ChIJY-8UiP1lVDcR-bjIsNRphHY
+Barkamta union healt government hospital,23.4943603,91.0161821,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Barkamta,ChIJN4iFwA9lVDcRzVuGM0raeZI
+১৫ নং বরকামতা ইউনিয়ন স্বাস্থ্য ও পরিবার কল্যাণ কেন্দ্র,23.4943605,91.0161825,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Barkamta,ChIJz8S-KGJlVDcRPKZJ8TLsUg4
+Kar Bari,23.4894759,91.0183939,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Barkamta,ChIJs0ivGfxlVDcRu5n4A4hVkpY
+Chandina Upazilla Health Complex,23.4883487,90.9983175,3.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina,ChIJk94EWxJkVDcR6Vxia_bQEdo
+চান্দিনা থানা স্বাস্থ কমপ্লেক্স,23.4883062,90.9969369,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Belashor,ChIJWUbAJBJkVDcRjHqXObgyw60
+Sheba Diagnostic Centre,23.4884861,90.9966326,4.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Mokambari Shahi Eidgah, Chandina Grand Trunk Road",ChIJqYItNWBlVDcRxoVsIBDK-eo
+Uzirpor Hospital,23.4813367,90.867472,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ3crZqixcVDcRrzwpS9tk47w
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+মা ও মেডিকেল হল,23.4949809,90.7978677,5,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi Upazila,ChIJzXEdGMlbVDcRXsPwDbaoqIk
+নিউ জননি মেডিকেল সেন্টার ও হাসপাতাল,23.5025886,90.9393203,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Madhya to Michael,Nawabpur,Kachua Chandpur Road, Bhani",ChIJbV9Tyh5nVDcRlxwFP4KrSKE
+Madhaiya Mim Hospital,23.5025622,90.9393136,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Madhaiya, Dhaka - Chittagong Highway, Chandina",ChIJrfuEtfZnVDcRCVubZC0P7pI
+Madhaiya General Hospital,23.5036749,90.9388912,4,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madhaiya Bazar, Chandina,Comilla-3511, N1",ChIJmY6vTRlnVDcRSdGwQdAybJ0
+বিসমিল্লাহ মেডিকেল হল/Bismillah medical hall,23.4787646,90.9479131,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJB-f8PM9nVDcRrQc1OkJYz_o
+sumon madical,23.5053773,90.9091388,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কুটুম্বপুর-মুরাদপুর,ChIJ-xSgp31nVDcRTAwi5wg8HmI
+sumon madical hall,23.5047667,90.9090606,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","kutumbapur shaharper, chandina",ChIJYz4yTGxnVDcRyHVjj5G67Zo
+সুমন মেডিকেল হল,23.4986321,90.9082201,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কুটুম্বপুর-মুরাদপুর,ChIJm_cT55xnVDcRb5F4WCEYXy8
+ইলমা হোমিও সেন্টার,23.5305792,90.9140851,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Rajameher,ChIJb7U1iVFnVDcRYxP7vDWuCcM
+Chatuli Community Clinic,23.5309637,90.914528,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Debidwar Upazila,ChIJN0PqellnVDcRufw3PaJmSV0
+আলাউদ্দিন,23.4573778,90.9397619,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","মহিচাইল পোষ্ট অফিস, Nawabpur Kachua Chandpur Road",ChIJCapWB0ZhVDcR9K-SgwvHjWA
+Hospital,23.4563257,90.9386989,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ__xfBNxgVDcRRvEC0Z5O0QQ
+মহিচাইল ২০ শয্যা বিশিষ্ট হাসপাতাল- Mohichail Hospital,23.4559383,90.9394886,2,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Mohichail,ChIJ-2JbpN5gVDcRBRf34U6WX2c
+Mohichail Bazar Hospital,23.4558845,90.9395081,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Nawabpur Kachua Chandpur Road,ChIJCbdjpN5gVDcRzD_dfIfDIZg
+Bismillah Farmisi,23.5506589,90.9277375,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Panti - Rajamehar Road, Rajameher",ChIJURzwcY9nVDcRGmvVZg7lkoI
+Tulagaon Community Clinic,23.5146812,90.9903281,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","তুলাগাঁও--চাদ্নিনা সড়ক, Sultanpur",ChIJP1aQai5kVDcRNmGLotTeFAc
+Gandra Hospital,23.537713,90.8999777,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJD1h2hyVdVDcRu2G2szaXfhY
+ফারজানা মেডিকেল হল,23.4573931,90.9135654,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJDQT5HaJhVDcRD7kIEt-OKW0
+Uzirpor Hospital,23.4813367,90.867472,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ3crZqixcVDcRrzwpS9tk47w
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+Hospital,23.4563257,90.9386989,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ__xfBNxgVDcRRvEC0Z5O0QQ
+আলাউদ্দিন,23.4573778,90.9397619,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","মহিচাইল পোষ্ট অফিস, Nawabpur Kachua Chandpur Road",ChIJCapWB0ZhVDcR9K-SgwvHjWA
+মহিচাইল ২০ শয্যা বিশিষ্ট হাসপাতাল- Mohichail Hospital,23.4559383,90.9394886,2,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Mohichail,ChIJ-2JbpN5gVDcRBRf34U6WX2c
+Mohichail Bazar Hospital,23.4558845,90.9395081,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Nawabpur Kachua Chandpur Road,ChIJCbdjpN5gVDcRzD_dfIfDIZg
+বিসমিল্লাহ মেডিকেল হল/Bismillah medical hall,23.4787646,90.9479131,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJB-f8PM9nVDcRrQc1OkJYz_o
+ফারজানা মেডিকেল হল,23.4573931,90.9135654,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJDQT5HaJhVDcRD7kIEt-OKW0
+কাউছার ডক্টর হসপিটাল,23.4165092,90.9251663,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Kegla Nowabpur Road,ChIJnX4N0bxhVDcRjRdRnUMXTc8
+Madhaiya Mim Hospital,23.5025622,90.9393136,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Madhaiya, Dhaka - Chittagong Highway, Chandina",ChIJrfuEtfZnVDcRCVubZC0P7pI
+নিউ জননি মেডিকেল সেন্টার ও হাসপাতাল,23.5025886,90.9393203,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Madhya to Michael,Nawabpur,Kachua Chandpur Road, Bhani",ChIJbV9Tyh5nVDcRlxwFP4KrSKE
+Madhaiya General Hospital,23.5036749,90.9388912,4,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madhaiya Bazar, Chandina,Comilla-3511, N1",ChIJmY6vTRlnVDcRSdGwQdAybJ0
+সুমন মেডিকেল হল,23.4986321,90.9082201,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কুটুম্বপুর-মুরাদপুর,ChIJm_cT55xnVDcRb5F4WCEYXy8
+Al Madina Health Care,23.4136423,90.908137,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","bazar, Gallai, Chandina",ChIJy8rtywxhVDcRrE66CzhNd7M
+Abeda Noor Hospital,23.414818,90.9036731,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ5ec4LthfVDcRbEU2VB9lofc
+sumon madical hall,23.5047667,90.9090606,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","kutumbapur shaharper, chandina",ChIJYz4yTGxnVDcRyHVjj5G67Zo
+Dollai Nowabpur Government Hospital,23.4031243,90.9252012,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Nowabpur,ChIJb0ad-T9gVDcRCvPAM0j5YEY
+Sheba Diagonistic Center,23.4028717,90.9258315,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, নবাব পুর রোড, ঢাকা",ChIJVxP7iBRhVDcRvxwn5tlylcE
+sumon madical,23.5053773,90.9091388,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কুটুম্বপুর-মুরাদপুর,ChIJ-xSgp31nVDcRTAwi5wg8HmI
+টাওয়ার হসপিটাল এন্ড ডিজিটাল ডায়াগনষ্টিক সেন্টার নবাবপুর,23.4006163,90.9265121,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Nowabpur,ChIJU02Esj9gVDcRO6dSMXC3iLI
+মাহিনী সরকারী হাসপাতাল,23.1957981,91.2417521,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","mahini bazar nangalkot, Comilla",ChIJpRkkMy59UzcRwxi1w_WrCaU
+Bangodda Government Hospital,23.2227316,91.2357732,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Bangadda,ChIJAUZCAQ59UzcRJh3G43z09_c
+Batagow Community Clinic,23.1626721,91.2395343,2.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJk2PrI-hiUzcR153_IdTyv1A
+"Ultra-Modern Hospital, Comilla-3580",23.1686871,91.2035397,3.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJQQ_Qo1ydVDcR-F1ucfxfCgU
+First Care Hospital & Diagnostic Centre.,23.1965552,91.3170974,2,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJ--kqPDB7UzcRNJvUO7svrjU
+GHOSH KHAMAR SUB HEALTH CENTRE,23.1991966,91.3312038,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","A635, Radhanagar",ChIJj-o81PF7UzcRLXF4yrkLYug
+"Upazila Livestock Office, Chouddagram, Cumilla.",23.2217087,91.3134724,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram Upazila,ChIJ4RLij757UzcR48MQbRJOtKI
+উপজেলা প্রানিসম্পদ দপ্তর ও ভেটেরিনারি হাসপাতাল,23.2217066,91.3133871,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Bizra - Laksam Rd,ChIJeQhbUn57UzcRaMtt0qKBQtQ
+নাফিজ মেডিসিন সেন্টার,23.1826014,91.2957836,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","চৌদ্দগ্রাম উপজেলা, A.K.B Chowmohony,BaskaraBangladesh",ChIJCSzwvbZlUzcRludGwN_PkNA
+চৌদ্দগ্রাম জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার(প্রাঃ)লিঃ,23.2237444,91.3137554,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram Upazila,ChIJj_vNgWF7UzcRuB0dm39Cf8s
+Chauddagram General Hospital and Diagnostic Center (Pvt.) Limited,23.2237826,91.3137728,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","N1, Chauddagram",ChIJ53F5cg57UzcRPrvr3bsEKBk
+Prime Hospital & Diagnostic Centre,23.2261054,91.3136997,3.7,10,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhaka Chittagong Highway, চৌদ্দগ্রাম",ChIJM8ekmw57UzcRjPgohmxk59Q
+Radhanagar Hospital,23.2244342,91.3289041,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Radhanagar,ChIJBShqDP16UzcR0tj5OA_X3n8
+Friend's Hospital Prvt. Ltd.,23.2263608,91.313337,4.4,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram,ChIJgaZMng57UzcRoMSJ8668gxw
+রাধানগর প্রাথমিক স্বাস্থ্য কেন্দ্র,23.2244567,91.3288837,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Gram Panchayet, Radhanagar, Dakshin Paul Para, Near by, Dakshin Radhanagar",ChIJRdPgP1d7UzcRDtWyPTOoLmY
+Radha Nagar PHC,23.2245849,91.3292602,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","A635, Radhanagar",ChIJ60xvIVB7UzcRW40gMnGIKTY
+Fast Care Naz Hospital and Diagnostic Center,23.2277959,91.3141349,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Chauddagram Upazila, Nazir Building, Girl's School Rd",ChIJf6AKatB7UzcRBZfrL7tsXzs
+Cumilla Medical Centre-(Chauddagram Branch),23.228035,91.3131861,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram,ChIJDUM4cW17UzcRE4tveZGgKIc
+Prime Hospital,23.228035,91.3131861,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram Upazila,ChIJ9bOQOgR7UzcRFPnr500rolc
+Medilab Hospital.,23.228035,91.3131861,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram,ChIJo850Crl7UzcRB9x7eaOrlVA
+Batagow Community Clinic,23.1626721,91.2395343,2.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJk2PrI-hiUzcR153_IdTyv1A
+মাহিনী সরকারী হাসপাতাল,23.1957981,91.2417521,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","mahini bazar nangalkot, Comilla",ChIJpRkkMy59UzcRwxi1w_WrCaU
+"Ultra-Modern Hospital, Comilla-3580",23.1686871,91.2035397,3.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJQQ_Qo1ydVDcR-F1ucfxfCgU
+Bangodda Government Hospital,23.2227316,91.2357732,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Bangadda,ChIJAUZCAQ59UzcRJh3G43z09_c
+পরিবার পরিকল্পনা এবং মা ও শিশু স্বাস্থ্য কেন্দ্র,23.1444861,91.307288,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chiora Road,ChIJpeEyYfJlUzcRmXwf_-ymYno
+Kandir Par Government Hospital,23.1442017,91.3073556,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chiora Road,ChIJQRXb2ShlUzcRixGVFdDUJpk
+Hospital,23.1495343,91.3229309,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chiora Road,ChIJZWhgiQ1lUzcR9Kv3jJbUlUQ
+Merin Corner,23.1435314,91.2984621,4.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Netora Road,ChIJHdx7rmRlUzcRQQJy71PBvrc
+Sonapur Hospital,23.1302353,91.3189293,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram Upazila,ChIJYcF-nuRlUzcRERJHx6lvnSw
+Mordan Hospital,23.1430868,91.2850364,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhorkora Bazar, chauddagram, Comilla",ChIJU8opxH5jUzcRj-kEMDduIGw
+কাকৈরখোলা কমিউনিটি ক্লিনিক,23.1231557,91.2984151,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Hatbair Road, Hatbair",ChIJ5SDEqj1lUzcRt8W4MAvyQm8
+খোন্দকার মেডিসিন কর্ণার (ADD BY MTK),23.1202384,91.3044451,5,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Chowdhury Bazar,ChIJDwW4NmtlUzcR_lZ6xmKBliU
+ফরিদা মেডিক্যাল হল,23.1678416,91.2868766,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Hingula Bypass Road, Hingula",ChIJgYGVsYRjUzcRmobV-LKz79Y
+"পন্নারা,কনকাপৈত, চৌদ্দগ্রাম, Pannara, Kankapath, Chauddagram.",23.1470937,91.2712026,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কাঘাইশ মলিয়ারা রোড,ChIJJ2_SeHJjUzcRkuzoc_ROBrg
+VARD EYE HOSPITAL,23.1450701,91.2704672,3.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram Upazila,ChIJUaYcWHNjUzcRVwx01nBOuqo
+VARD Kamal Eye Hospital,23.1455947,91.2703775,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Fulgram,ChIJq7Li8oJjUzcRmCO1-TROmpA
+নাফিজ মেডিসিন সেন্টার,23.1826014,91.2957836,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","চৌদ্দগ্রাম উপজেলা, A.K.B Chowmohony,BaskaraBangladesh",ChIJCSzwvbZlUzcRludGwN_PkNA
+ইউনিয়ন স্বাস্থ্য ও পরিবার কল্যাণ কেন্দ্র,23.1641229,91.273105,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJpSpjtkdjUzcREOFYpK1Rwec
+Gangra Community Clinic,23.1110706,91.3350749,2,1,"['hospital', 'health', 'point_of_interest', 'establishment']","N1, Gangra",ChIJx8fD_MhlUzcRxVw9EBTDDhY
+মেসার্স ভাই ভাই ষ্টোর,23.1845327,91.2793423,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJceZbbNNjUzcRF-eaubvMEho
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+তারেক মেডিকেল হল,23.4246313,91.1928504,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Dishabond Moddum para, Kazipara, Cumilla City Corporation, কুমিল্লা",ChIJo5hMSBd_VDcR-EX9W_h8dKg
+Dhanishwer Community Clinic,23.4404123,91.2021999,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhanishwer, Dhulipara Road, Cumilla",ChIJce7aeG9_VDcRMaIRhdg6iAo
+হাসপাতাল,23.4425402,91.1813495,2.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","CML17, Cumilla",ChIJT0j_LRp_VDcR0K0XsieS9Jc
+janma Center,23.4300714,91.172499,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJ-9L615B_VDcRKX7t2PihwXE
+National Hospital,23.4331982,91.1715952,4.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Near Jangalia Bus Stop, Laksham Road, Cumilla",ChIJ_8UQI3F_VDcR2a0aelmVnHw
+Prime Medical Center,23.4204629,91.1724589,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Near Notun Paduar Bazar Jame Masjid , Paduar Bazar Biswa Road, Laksham Road, Cumilla",ChIJu0Lvl1R-VDcRT8pd4xPabtc
+ঢুলিপাড়া বেগম নেহেরুননেছা নগর স্বাস্থ্য কেন্দ্র,23.4468477,91.191971,4.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhulipara Road, Cumilla",ChIJMwJjJBV_VDcRYbfTt7S8W4E
+উপজেলা প্রানিসম্পদ দপ্তর ও ভেটেরিনারি হাসপাতাল,23.4104577,91.198935,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Sadar Dakshin Upazila,ChIJld_NY6h_VDcRQz4bcnQjGyw
+Laksham Lit IHEALTH CARE Bangladesh,23.4409203,91.1740452,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Laksham Road, Cumilla",ChIJ7yEu6mJ_VDcRhuUvVRmcT3c
+"Upazila Livestock Office, Cumilla Sadar Dakshin, Cumilla,",23.4104131,91.1989347,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Lakhinagar Road, Cumilla",ChIJFVpE0FR_VDcRLi8zxWVnZ1g
+সদর দক্ষিণ উপজেলা প্রানিসম্পদ দফতর কার্যালয়।,23.4103317,91.1990059,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJ1fnWJDV_VDcRjnkTLnB1C4E
+Comilla Sadar South Health Complex,23.4093611,91.1970883,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Sadar Dakshin Upazila,ChIJw5YexpZ_VDcRa-6kpxiZ77w
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Cumilla CMH,23.4832481,91.1099839,4.3,45,"['hospital', 'health', 'point_of_interest', 'establishment']","Burichang Upazila, Mainamati Cantonment",ChIJxf0eXY57VDcRLRPY7CEQRdY
+রাইসা মেডিকেল হল,23.4687053,91.1263588,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Uttar Durgapur, সাহেবনগর, কুমিল্লা ক্যান্টনমেন্ট, কুমিল্লা",ChIJGULyDIx9VDcR2XyOnOhqTUs
+সেবা হোমিও চিকিৎসালয়,23.468304,91.1257483,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","কুমিল্লা আদর্শ সদর উপজেলা, Uttar Durgapur, Sahebnagar, kotwali, Cumilla Cantonmen",ChIJ-2Hl2ht9VDcRrzl3_XGVx7U
+সৎ সঙ্গ ফার্মেসি,23.4937064,91.1063096,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",,ChIJAQi4qPR7VDcR5_KHNzUzOv8
+বাংলাদেশ জাতীয় অন্ধ কল্যাণ সমিতি,23.4697976,91.1376954,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","চক্ষু হাসপাতাল - বড়দৈল সড়ক, Bordoil",ChIJHx4LIfR_VDcRHgXc7YljOxU
+"চক্ষু হাসপাতাল,বিকু ও বিজে একেএস,বাংলাদেশ জাতীয় অন্ধ কল্যান সমিতি",23.46965,91.1376996,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJq7Z3dpF_VDcRGY87BEXcktM
+চক্ষু হাসপাতাল-Eye Hospital B.J.A.K.S,23.4694652,91.1376972,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJ67NpOIp_VDcRJgN1zKQoI2Q
+Bangladesh Institute of community ophthalmology & Eye Hospital,23.4694689,91.1377166,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","চক্ষু হাসপাতাল - বড়দৈল সড়ক, Bordoil",ChIJ6WkTpMp_VDcRiDt7rB7Lzyw
+Mental Hospital,23.4787126,91.1423099,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Uttor Durgapur Road, Cumilla",ChIJB4cBX6J5VDcRK2onmy4cKs0
+Mainamati Union Health Complex,23.497741,91.1058409,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla - Sylhet Highway,ChIJfeNIpqJ7VDcRm-KS-vtF6hU
+Bangladesh Jatiya Andha Kalyan Somity,23.4667167,91.1403384,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhaka - Chittagong Highway, Cumilla",ChIJq9kRsq5-VDcRHKzKWKBPe2o
+Allhamdolillah Medical Hall,23.4877356,91.1449438,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Gumti River Dam Road,ChIJqQTvnJF5VDcRYNHIrC1aVkQ
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+কাকিয়ারচর কমিউনিটি ক্লিনিক,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কাকিয়ারচর,ChIJweQ6ozF_VDcR1aIqgnddjv0
+homio pathik collage,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla poraton, Chowdhury Para",ChIJ4aPj5y1_VDcRZWAFTAxEIMw
+"সেবা এ্যাম্বুলেন্স সার্ভিস,কুমিল্লা।",23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","কুমিল্লা মেডিক্যাল কলেজ হাসপাতাল,কুমিল্লা।, Cumilla",ChIJiQRjJ6x_VDcRIX6YtryVJoA
+Jalgaon kobiraj,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Cumilla",ChIJ8Xuzz-F9VDcRC8aIlfc0--4
+Pubg rj mental academy hall,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJCTfHZW1_VDcRC_llb3F816w
+Sharma Maternity Care,23.4606574,91.1809065,3.6,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madina Masjid Rd, Cumilla",ChIJG9V9ZyZ_VDcRbab8ETZMYD8
+Md.Nure Alam,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","গোপালনগর, কুমিল্লা",ChIJf4F5WSZ_VDcR_XhdOmU7Xj4
+Care Hospital,23.4606574,91.1809064,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","South Bangura . Bangura Bazar, কুমিল্লা",ChIJKS-EbQ5_VDcRGt46BI8b4vg
+Comilla Apollo Hospital,23.4593695,91.1808324,4.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJvx1NpyV_VDcRS6p9I-PhJNk
+Shohel Medical Hall,23.461679,91.1797508,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJ6bTWXy9_VDcRfdVjDRT6-lc
+Medi Teak,23.4613665,91.1794478,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Cumilla",ChIJ9WM4Xy9_VDcRO6vS7gmrBXA
+মেসার্স ফল্মি এন্টারপ্রাজ,23.4612986,91.1793006,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJfcmSnmp_VDcRJoj9ruqsHrk
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+Medical Center,23.4372197,91.135131,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla - Kotbari Road,ChIJAbIHAyh8VDcRTBntdSTBUWs
+মা হোমিও কেয়ার,23.4338753,91.1391556,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Gondhomoti Road, Hazaribagh",ChIJna10XLF_VDcRIZCIF-o4_Hs
+Birshrestho Nur Mohammad Hospital,23.427393,91.1333815,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Kotbari,ChIJZYKEZS59VDcRm9lvGUiYLQE
+HDmovie24 Insef Specialized Hospital Limited,23.4416469,91.1430341,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","38-tomsombrideg, Comilla - Kotbari Road, কুমিল্লা",ChIJyRdS5tZ_VDcRpUF3MjQDD38
+ফয়সাল মেডিকেল হল,23.4440809,91.1419303,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Yeasin Complex, Near Court Bari, Comilla - Kotbari Road, Cumilla",ChIJVRXtfJl-VDcRQoaXGnQdxdk
+Bijoypur Union Parishad Hospital,23.4315773,91.1530106,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Haratoli, Cumilla",ChIJtQy2pVh_VDcR5Gnjls42VPc
+Union Health and Family Welfare Center,23.4317521,91.1536714,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","South Comilla, Haratoli, Sadar",ChIJ0foDaUB_VDcRwG-Fm7jHkSE
+Bijoypur Union Parishad Hospital,23.4331546,91.1580962,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Haratoli, Cumilla",ChIJI12pQr9_VDcRvCBtgzl5jJ8
+Bangladesh Jatiya Andha Kalyan Somity,23.4667167,91.1403384,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhaka - Chittagong Highway, Cumilla",ChIJq9kRsq5-VDcRHKzKWKBPe2o
+সেবা হোমিও চিকিৎসালয়,23.468304,91.1257483,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","কুমিল্লা আদর্শ সদর উপজেলা, Uttar Durgapur, Sahebnagar, kotwali, Cumilla Cantonmen",ChIJ-2Hl2ht9VDcRrzl3_XGVx7U
+রাইসা মেডিকেল হল,23.4687053,91.1263588,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Uttar Durgapur, সাহেবনগর, কুমিল্লা ক্যান্টনমেন্ট, কুমিল্লা",ChIJGULyDIx9VDcR2XyOnOhqTUs
+চক্ষু হাসপাতাল-Eye Hospital B.J.A.K.S,23.4694652,91.1376972,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJ67NpOIp_VDcRJgN1zKQoI2Q
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+ফয়সাল মেডিকেল হল,23.4440809,91.1419303,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Yeasin Complex, Near Court Bari, Comilla - Kotbari Road, Cumilla",ChIJVRXtfJl-VDcRQoaXGnQdxdk
+HDmovie24 Insef Specialized Hospital Limited,23.4416469,91.1430341,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","38-tomsombrideg, Comilla - Kotbari Road, কুমিল্লা",ChIJyRdS5tZ_VDcRpUF3MjQDD38
+Medical Center,23.4372197,91.135131,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla - Kotbari Road,ChIJAbIHAyh8VDcRTBntdSTBUWs
+মা হোমিও কেয়ার,23.4338753,91.1391556,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Gondhomoti Road, Hazaribagh",ChIJna10XLF_VDcRIZCIF-o4_Hs
+Bijoypur Union Parishad Hospital,23.4315773,91.1530106,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Haratoli, Cumilla",ChIJtQy2pVh_VDcR5Gnjls42VPc
+Union Health and Family Welfare Center,23.4317521,91.1536714,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","South Comilla, Haratoli, Sadar",ChIJ0foDaUB_VDcRwG-Fm7jHkSE
+Birshrestho Nur Mohammad Hospital,23.427393,91.1333815,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Kotbari,ChIJZYKEZS59VDcRm9lvGUiYLQE
+Bijoypur Union Parishad Hospital,23.4331546,91.1580962,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Haratoli, Cumilla",ChIJI12pQr9_VDcRvCBtgzl5jJ8
+Bangladesh Jatiya Andha Kalyan Somity,23.4667167,91.1403384,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhaka - Chittagong Highway, Cumilla",ChIJq9kRsq5-VDcRHKzKWKBPe2o
+চক্ষু হাসপাতাল-Eye Hospital B.J.A.K.S,23.4694652,91.1376972,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJ67NpOIp_VDcRJgN1zKQoI2Q
+Bangladesh Institute of community ophthalmology & Eye Hospital,23.4694689,91.1377166,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","চক্ষু হাসপাতাল - বড়দৈল সড়ক, Bordoil",ChIJ6WkTpMp_VDcRiDt7rB7Lzyw
+"চক্ষু হাসপাতাল,বিকু ও বিজে একেএস,বাংলাদেশ জাতীয় অন্ধ কল্যান সমিতি",23.46965,91.1376996,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJq7Z3dpF_VDcRGY87BEXcktM
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+কাকিয়ারচর কমিউনিটি ক্লিনিক,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কাকিয়ারচর,ChIJweQ6ozF_VDcR1aIqgnddjv0
+homio pathik collage,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla poraton, Chowdhury Para",ChIJ4aPj5y1_VDcRZWAFTAxEIMw
+"সেবা এ্যাম্বুলেন্স সার্ভিস,কুমিল্লা।",23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","কুমিল্লা মেডিক্যাল কলেজ হাসপাতাল,কুমিল্লা।, Cumilla",ChIJiQRjJ6x_VDcRIX6YtryVJoA
+Jalgaon kobiraj,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Cumilla",ChIJ8Xuzz-F9VDcRC8aIlfc0--4
+Pubg rj mental academy hall,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJCTfHZW1_VDcRC_llb3F816w
+Sharma Maternity Care,23.4606574,91.1809065,3.6,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madina Masjid Rd, Cumilla",ChIJG9V9ZyZ_VDcRbab8ETZMYD8
+Md.Nure Alam,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","গোপালনগর, কুমিল্লা",ChIJf4F5WSZ_VDcR_XhdOmU7Xj4
+Care Hospital,23.4606574,91.1809064,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","South Bangura . Bangura Bazar, কুমিল্লা",ChIJKS-EbQ5_VDcRGt46BI8b4vg
+Comilla Apollo Hospital,23.4593695,91.1808324,4.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJvx1NpyV_VDcRS6p9I-PhJNk
+Shohel Medical Hall,23.461679,91.1797508,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJ6bTWXy9_VDcRfdVjDRT6-lc
+Medi Teak,23.4613665,91.1794478,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Cumilla",ChIJ9WM4Xy9_VDcRO6vS7gmrBXA
+মেসার্স ফল্মি এন্টারপ্রাজ,23.4612986,91.1793006,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJfcmSnmp_VDcRJoj9ruqsHrk
+Laksam Diagnostic Center and Hospital,23.2372684,91.1238818,4.3,4,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Laksam",ChIJwapz8mKEVDcRrklR9RmWzh4
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Anower Bone Broken Dispensary,23.3445917,91.116232,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","keshenpar,poduar mosque, Cumilla",ChIJj9lmn7iHVDcRwlmd1kFC2qA
+Shilmuri Hospital,23.3462946,91.0951138,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Shilmori,ChIJNVmOBaeHVDcR2-qNilTSEI8
+K.R hospital (Lagnasar Bone Broke Medical Center Lalmai Comilla),23.353158,91.123913,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJ8_CbA3aHVDcRPVm3eBz_GNY
+Chandupur Community Clinic,23.332828,91.1211466,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Keshonpar,ChIJL4070IiHVDcRQ82mJTYt64Y
+Bagmara Hospital,23.3389657,91.1434793,3.9,16,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Sadar South Upazila,ChIJizWW7dCAVDcRugH5tXmms5Y
+Lalmai Upazila Health Complex (Proposed),23.3385932,91.1436208,4.4,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Sadar Dakshin Upazila,ChIJE00f7dCAVDcRV5JOktbhVo4
+বাগমারা ডিজিটাল ডায়াগনষ্টিক এন্ড কনসালটেশন সেন্টার,23.3349082,91.1433895,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","হাজী ফজলুল হক মার্কেট, বাগমারা দক্ষিন বাজার, এক্সিম ব্যাংকের নিচ তলা, লালমাই",ChIJnU0CEA-BVDcRyV3GKPmdFRk
+bagmara chiken market,23.3344264,91.1451735,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Sadar Dakshin Upazila,ChIJm76F2dmAVDcRmhR1MPbNi4A
+Ghoshpa Gov't Community Clinic,23.3283027,91.0769496,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Bizra - Barura Road,ChIJG2yE5nGHVDcRa_4j37e5IB0
+ভাবক পাড়া কমিউনিটি ক্লিনিক,23.3091274,91.11403,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",,ChIJKzYVvEaHVDcRnPezMtGJB90
+M.RAHMAN FERMACY,23.368924,91.1521238,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Sadar Dakshin Upazila,ChIJi4YY_qKAVDcRMVdw57WkCRs
+S.M SHAFI HOSPITAL,23.3097445,91.0833352,4.7,7,"['hospital', 'health', 'point_of_interest', 'establishment']",Bizra,ChIJvRR6MUKGVDcRMoIPEAXI-6U
+বালুয়াকান্দি কমিউনিটি ক্লিনিক,23.5785031,90.7473401,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Baluakandi,ChIJVVVVlftPVDcRYAFSHAU8etE
+Green Lab Hospital,23.5393726,90.783552,4,8,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJ2eeztuVaVDcRnYsXoQ-vNUg
+Gouripur City Hospital,23.5393618,90.7842367,4,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJgSNPsOVaVDcRYZfWL_bqO7g
+পোরাচক বাউশীয়া পশ্চিম নয়াকান্দি কমিউনিটিাক্লিনিক,23.5540916,90.6649646,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Baushia Madrasa, N1, Gazaria",ChIJVVVFLhFSVDcR_6ngOVRW4S4
+মা ও মেডিকেল হল,23.4949809,90.7978677,5,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi Upazila,ChIJzXEdGMlbVDcRXsPwDbaoqIk
+বালুয়াকান্দি কমিউনিটি ক্লিনিক,23.5478112,90.6204165,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Gazaria,ChIJVVVVVZVSVDcRig_jxDrSU10
+বালুয়াকান্দি কমিউনিটি ক্লিনিক,23.5972991,90.6331967,2,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Gazaria,ChIJwfoU7AxNVDcRI2HKtbGEqYQ
+Hakim Hafiz Abdul Majid Hospital,23.598485,90.6193026,4.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Gazaria Upazila,ChIJLYxANT5NVDcRdYMGdpMYtkQ
+ইসমানির চর কমিউনিটি ক্লিনিক,23.558982,90.589139,4.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']","গজারিয়া উপজেলা, ইামানির চর কমিউনিটি ক্লিনিক গজারিয়া",ChIJpceU2kStVTcRkKHTdVTKJuk
+Apollo Plus Hospital,23.5317463,90.7171821,4,9,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi,ChIJ5StJDlNQVDcREozWXyuT1Gc
+"অ্যাপোলো প্লাস হসপিটাল, মমতাজ ভবন",23.5314703,90.7170521,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",N1,ChIJy6d5CQ1RVDcRbPUe-n8hRW0
+জনতা ডায়াগনিষ্টিক সেন্টার,23.5386029,90.7167344,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi,ChIJKd4j4kxQVDcR4TvBGRoP6p4
+ইপিআই টিকাদান কেন্দ্র,23.5388854,90.7329401,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","prodhan bari rode, Daudkandi",ChIJQ7cV115RVDcRdMBbvoIHeWA
+New Janani Diagonostic Center. নিউ জননী ডায়াগনস্টিক সেন্টার,23.5378789,90.7136949,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Daudkandi Bazar Road, Daudkandi",ChIJwZVNKzxRVDcR5A3uiaNF_O0
+Family Hospital,23.5356777,90.7121855,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Daudkandi Bazar Road, Daudkandi",ChIJHffcG11RVDcRuCtcrjM1c_Y
+Alham Hospital,23.5357639,90.7121981,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi,ChIJTYxKQbJRVDcRlzPKTt4HS34
+Doctors Care,23.5350637,90.7120467,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi Upazila,ChIJfb3giFZRVDcRgTDfpQbFoUg
+এলহাম হাসপাতাল,23.5374386,90.7119632,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","পৌড়সভা, দোনারচর রোড, দাউদকান্দি",ChIJHQf04D1RVDcRkWkoi03AMBU
+Trauma Center,23.5286481,90.7549828,3.1,7,"['hospital', 'health', 'point_of_interest', 'establishment']","N1, Barpara",ChIJD8fdj4FaVDcR7L-OtTVqqdc
+Surjer Hashi Clinic (SHN) 151,23.5253091,90.7558895,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi Upazila,ChIJzx56t3hbVDcRxHnvBbPdztc
+Uzirpor Hospital,23.4813367,90.867472,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ3crZqixcVDcRrzwpS9tk47w
+মা ও মেডিকেল হল,23.4949809,90.7978677,5,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi Upazila,ChIJzXEdGMlbVDcRXsPwDbaoqIk
+Gouripur City Hospital,23.5393618,90.7842367,4,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJgSNPsOVaVDcRYZfWL_bqO7g
+Green Lab Hospital,23.5393726,90.783552,4,8,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJ2eeztuVaVDcRnYsXoQ-vNUg
+বালুয়াকান্দি কমিউনিটি ক্লিনিক,23.5785031,90.7473401,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Baluakandi,ChIJVVVVlftPVDcRYAFSHAU8etE
+Eliotgonj Apollo Hospital,23.513469,90.8691675,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Bangladesh, Eliotganj",ChIJ-0R3G61dVDcRooHLQqCJpE8
+ইলিয়াট গঞ্জ চ্যানেল হসপিটাল,23.5129943,90.868904,2.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Eliotganj,ChIJCWCvzJ5dVDcR75YOLK1Jows
+সুভাষী ডেন্টাল কেয়ার,23.513468,90.8687286,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","bazar, Eliotganj",ChIJESa6OKVdVDcRLuMSROUbHfQ
+Shuvashi Dental Care,23.5135018,90.8687044,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Eliotgonj-Muradnagar Road,ChIJm4xYBNhdVDcRTQ9MbbO1Rk4
+ইলিয়ট গঞ্জ জেনারেল হসপিটাল,23.5124544,90.8689144,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Eliotgonj-Muradnagar Road,ChIJ45RCxVFdVDcROmIVFk2CfQI
+Eliotgonj Union FWC,23.514246,90.8678971,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",N1,ChIJMxky0axdVDcRPl85hByqd8w
+গ্রাম খিলাইল পার,23.5347911,90.8707041,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Eliotgonj-Muradnagar Road,ChIJM9fItOJdVDcRzO72KxllX9k
+sumon madical,23.5053773,90.9091388,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কুটুম্বপুর-মুরাদপুর,ChIJ-xSgp31nVDcRTAwi5wg8HmI
+Gandra Hospital,23.537713,90.8999777,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJD1h2hyVdVDcRu2G2szaXfhY
+sumon madical hall,23.5047667,90.9090606,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","kutumbapur shaharper, chandina",ChIJYz4yTGxnVDcRyHVjj5G67Zo
+সুমন মেডিকেল হল,23.4986321,90.9082201,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কুটুম্বপুর-মুরাদপুর,ChIJm_cT55xnVDcRb5F4WCEYXy8
+Habib Homeo Hall,23.5343017,90.8309349,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",N1,ChIJV385z4JcVDcRzBhjc7Ss3PQ
+Maligaon Bhuiyanbari Hospital Complex,23.4898324,90.8307338,5,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Maligoan Bhuiyanbari, Uttar Nagar Road.",ChIJWdKszAlcVDcRKiV_jMBWtzk
+Maligaon 50 Bedded Hospital,23.4896857,90.8304771,4.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi Upazila,ChIJy1ClNwhcVDcR0jiilihZb0U
+"Grandra Hospital, Grandra-3519",23.5554114,90.8787886,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Muradnagar Upazila,ChIJgZ1HHTtdVDcRf5IBj7p1PkE
+Uzirpor Hospital,23.4813367,90.867472,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ3crZqixcVDcRrzwpS9tk47w
+Green Lab Hospital,23.5393726,90.783552,4,8,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJ2eeztuVaVDcRnYsXoQ-vNUg
+Gouripur City Hospital,23.5393618,90.7842367,4,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJgSNPsOVaVDcRYZfWL_bqO7g
+মা ও মেডিকেল হল,23.4949809,90.7978677,5,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi Upazila,ChIJzXEdGMlbVDcRXsPwDbaoqIk
+বালুয়াকান্দি কমিউনিটি ক্লিনিক,23.5785031,90.7473401,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Baluakandi,ChIJVVVVlftPVDcRYAFSHAU8etE
+পোরাচক বাউশীয়া পশ্চিম নয়াকান্দি কমিউনিটিাক্লিনিক,23.5540916,90.6649646,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Baushia Madrasa, N1, Gazaria",ChIJVVVFLhFSVDcR_6ngOVRW4S4
+Upazila Health Complex,23.5381718,90.7794308,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJ_____-5aVDcR3JBIsGtShuI
+DESH HOSPITAL,23.5376685,90.7831464,3.8,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJQ0s8DeVaVDcR5Zn9kFnZPXE
+Kamal Mordan Hospital,23.5374595,90.7831326,3.3,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJfUJ3DeVaVDcRtvp0rks1I48
+দেশ হসপিটাল লিমিটেড,23.537497,90.7833274,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Gouripur - Homna Highway, Gouripur",ChIJET0Zj1BbVDcRlWjaTsP_9Ls
+Shapla Hospital & Digonostic Center,23.5392505,90.7835551,4,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJWylOyOVaVDcRrXY1_vyS1rg
+Gouropur Rongdonu Hospital,23.5387624,90.7837049,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Gouripur - Homna Highway, Gouripur",ChIJl3awr-VaVDcRsezGNVdHLJw
+hospital,23.5389917,90.7836758,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Gouripur - Homna Highway, Gouripur",ChIJMWJAsOVaVDcReU3xc5IyTaI
+Gouripur Rongdhonu Hospital,23.5386433,90.7838095,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Bazar Road, Gouripur",ChIJFWTFR-RaVDcRNLJMLUHh_Ew
+"S,alam plaza,",23.5394765,90.7836912,4.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","S,alam plaza,Green lab hospital, homna road, Holding no:- 191, গৌরীপুর",ChIJNUNbxp1bVDcRd4fzH-7ZUxE
+Shikdar Medical,23.5397371,90.7837991,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJ7Te_yeVaVDcRHvhPYnS_6uw
+মুক্তি হাসপাতাল,23.5350874,90.782687,4.5,11,"['hospital', 'health', 'point_of_interest', 'establishment']","Gouripur - Homna Highway, Gouripur",ChIJZSTytPpaVDcRL0E7TZTBbjw
+Khidmah Digital Hospital,23.5401478,90.7837646,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Brac Bank, Madona Garden City, Vulir Par, Homna Road, Homna Hwy, Comilla, Gourip",ChIJ3cnkzuVaVDcRG6cbJrPQpVk
+নিউ মেডিনোভা হসপিটাল,23.5399594,90.7838863,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","বাজার, Gouripur",ChIJ3zgdfNNbVDcRnsNG5zTFCxY
+Delwar parvez dolon,23.5402194,90.7837566,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJewtEHIJbVDcRcZW1aimlSWc
+Brahmanpara Upazila Health Complex,23.6133333,91.0943145,4.7,6,"['hospital', 'health', 'point_of_interest', 'establishment']","Brahmanpara - Dulalpur GC Road, Brahmanpara",ChIJFcASVFRwVDcRsmSLDTrlcOI
+The Vision Hospital,23.6896965,91.0912514,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla - Mirpur Road,ChIJ11ZMqfxwVDcRNvsnPsacbnw
+Kasba Upazilla Health Complex,23.7488798,91.1393501,3.5,26,"['hospital', 'health', 'point_of_interest', 'establishment']","Rail Station - Araibari Road, Kasba",ChIJ2_Nkkah0VDcRoFW1SrqxqwM
+Barashalghar Hospital,23.6884905,91.0315052,3.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Montri Bari Road, Barashalghar",ChIJCz4vdrhtVDcRpLYDw4Tl6e4
+ইউসুফপুর ইউনিয়ন হসপিটাল,23.6699868,91.0272304,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Maheshpur Road, Yousufpur",ChIJH4EWCg5tVDcRbhw6spvvUZU
+ইউসুফপুর স্বাস্থ্য ও পরিবার কেন্দ্র।,23.6695996,91.0270856,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Maheshpur Road, Yousufpur",ChIJTZAcFAltVDcR4M_C1wC1tNw
+ROYAL HOSPITAL & DIAGNOSTIC CENTER,23.7110556,91.0541024,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla- Sylhet Highway, Madhabpur",ChIJ5XGx9oFtVDcR9JGcjkKMX1k
+Madhabpur Health &Family welfare center,23.712257,91.0614139,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Mirpur,ChIJ2ezigoByVDcRdmYdUqoZspk
+Mirpur Hospital,23.7122915,91.0613464,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Brahmanpara Upazila,ChIJEY-GZvFzVDcRJpBc_pMHRgw
+Sheba Clinic,23.6459245,91.0528039,5,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Agaragram, Agargram-Khan Bari Road",ChIJ5XWJ8WJvVDcRjFEZRJra1cI
+"c&b bazar , dr.badal",23.6667297,90.9951542,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla - Sylhet Highway,ChIJMZw0hc5tVDcR-tbLFEaUhmk
+Subil Government Hospital,23.6341733,91.0483917,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Subil,ChIJ4b9yABFvVDcRxGlYdzY3pZI
+Kurbanpur Community Clinic,23.731364,91.0318438,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Kurbanpur Mazar road,ChIJ2_OJlYNtVDcRufsvjXpsGl0
+ইউনিয়ন সাস্থ ও পরিবার কল্যাণ কেন্দ্র,23.6819298,91.0997674,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",,ChIJF2YEaAJzVDcRoSX2AL1oN94
+দৈালবাড়ী দক্ষিন পাড়া সরকারি হসপিটাল,23.7212323,91.001273,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJmevcZRFtVDcRrKdcpvhqlHc
+মাইজখার কমিউনিটি ক্লিনিক,23.7234463,91.0899827,3.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Maizkhar,ChIJpcOFfOJzVDcRqolYgYcieKY
+Bangura hospital,23.7153971,90.9855083,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Bangura,ChIJh-RT2vdtVDcRiMPKvIfI5Nw
+রাজা চাপিতলা হসপিটাল,23.6949053,90.9766902,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Raza Chapitala,ChIJ-5qilKtrVDcRFiKhYWatlIw
+Bangora Thana Health Complex,23.7154582,90.9853967,4,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Barashalghar - Bangora Road, Bangura",ChIJy7vt4YBsVDcRQGuvXoojHQw
+Care hospital,23.7169141,90.985637,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Muradnagar Upazila, South Bangura, Bangura Bazar",ChIJC9ghYO5tVDcRmVz_S6eaShA
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+কাকিয়ারচর কমিউনিটি ক্লিনিক,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কাকিয়ারচর,ChIJweQ6ozF_VDcR1aIqgnddjv0
+homio pathik collage,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla poraton, Chowdhury Para",ChIJ4aPj5y1_VDcRZWAFTAxEIMw
+"সেবা এ্যাম্বুলেন্স সার্ভিস,কুমিল্লা।",23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","কুমিল্লা মেডিক্যাল কলেজ হাসপাতাল,কুমিল্লা।, Cumilla",ChIJiQRjJ6x_VDcRIX6YtryVJoA
+Jalgaon kobiraj,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Cumilla",ChIJ8Xuzz-F9VDcRC8aIlfc0--4
+Pubg rj mental academy hall,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJCTfHZW1_VDcRC_llb3F816w
+Sharma Maternity Care,23.4606574,91.1809065,3.6,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madina Masjid Rd, Cumilla",ChIJG9V9ZyZ_VDcRbab8ETZMYD8
+Md.Nure Alam,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","গোপালনগর, কুমিল্লা",ChIJf4F5WSZ_VDcR_XhdOmU7Xj4
+Care Hospital,23.4606574,91.1809064,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","South Bangura . Bangura Bazar, কুমিল্লা",ChIJKS-EbQ5_VDcRGt46BI8b4vg
+Comilla Apollo Hospital,23.4593695,91.1808324,4.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJvx1NpyV_VDcRS6p9I-PhJNk
+Shohel Medical Hall,23.461679,91.1797508,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJ6bTWXy9_VDcRfdVjDRT6-lc
+Medi Teak,23.4613665,91.1794478,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Cumilla",ChIJ9WM4Xy9_VDcRO6vS7gmrBXA
+মেসার্স ফল্মি এন্টারপ্রাজ,23.4612986,91.1793006,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJfcmSnmp_VDcRJoj9ruqsHrk
+Brahmanpara Upazila Health Complex,23.6133333,91.0943145,4.7,6,"['hospital', 'health', 'point_of_interest', 'establishment']","Brahmanpara - Dulalpur GC Road, Brahmanpara",ChIJFcASVFRwVDcRsmSLDTrlcOI
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+Uzirpor Hospital,23.4813367,90.867472,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ3crZqixcVDcRrzwpS9tk47w
+Tulagaon Community Clinic,23.5146812,90.9903281,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","তুলাগাঁও--চাদ্নিনা সড়ক, Sultanpur",ChIJP1aQai5kVDcRNmGLotTeFAc
+Mohammadpur Motin sha comiuniti clinic,23.540787,91.015093,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","দেবীদ্বার উপজেলা, Mohammadpur",ChIJb7VeloBlVDcRe1crPysJZGQ
+Debidwar Harvanga Hospital,23.5209515,91.0081806,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Debidwar - Chandina Road, Mohanpur",ChIJG9iCSX1lVDcRb8bpDGQoAkA
+Mohanpur Union Helth Complex,23.5299121,91.017791,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Elahabad,ChIJFwOrCallVDcRRyuzge1e2eI
+বাপ্পী মেডিকেল হল,23.558865,91.017963,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Professor Mujaffar Ahammed Road,ChIJ8bwNNrFlVDcRngi3XyGPzUc
+মরহুম আনছর আলী সাস্থ সেবা কেন্দ্র,23.5796038,90.9861943,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Debidwar Upazila,ChIJu-JFex1vVDcRCLinsxbIjXk
+Manwara-Majid Foundation,23.5815883,90.9708899,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","দেবীদ্বার উপজেলা, Bankot",ChIJ-VsVbiVpVDcRxlLJ_p1PAbI
+Anwar Ambulance Service Debidwar,23.58417,90.9935329,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Debidwar - Chandina Road,ChIJadoyfGxvVDcRQ5JsUEhY-Ww
+Jalaluddin Foundation Diabetic & Maternity Hospital,23.5850566,91.0038228,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Bhiralla - Dhamti Road, Debidwar",ChIJ0VlqjiZvVDcRgGJeklThRm4
+জালাল উদ্দিন ফাউন্ডেশন মা-শিশু ও ডায়াবেটিস হাসপাতাল,23.5850457,91.0039579,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",বারেরা,ChIJcXAsLcJvVDcRR9aR6CgMIHs
+Chandina Chantral hospital,23.4906318,90.993691,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Belashor,ChIJFYp1V7plVDcR9wnNOV88XkY
+চান্দিনা সেন্ট্রাল হাসপাতাল Chandina Central Hospital,23.4898403,90.9940857,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Belashor,ChIJec2cTnllVDcRvIZ7bkc7y5E
+Chandina Central Hospital,23.4888095,90.995331,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",অট্রালিকা,ChIJ3760UaVlVDcRS1xfbe04yrs
+Chandina Medinova Hospital,23.4898279,91.0010189,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Dhaka - Chittagong Highway, Chandina",ChIJY-8UiP1lVDcR-bjIsNRphHY
+Durga mondir,23.5435777,91.0434306,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Moynamoti,ChIJ33TO-cFlVDcR26tJcPmMrvk
+Sheba Diagnostic Centre,23.4884861,90.9966326,4.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Mokambari Shahi Eidgah, Chandina Grand Trunk Road",ChIJqYItNWBlVDcRxoVsIBDK-eo
+চান্দিনা থানা স্বাস্থ কমপ্লেক্স,23.4883062,90.9969369,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Belashor,ChIJWUbAJBJkVDcRjHqXObgyw60
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+কাকিয়ারচর কমিউনিটি ক্লিনিক,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কাকিয়ারচর,ChIJweQ6ozF_VDcR1aIqgnddjv0
+homio pathik collage,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla poraton, Chowdhury Para",ChIJ4aPj5y1_VDcRZWAFTAxEIMw
+"সেবা এ্যাম্বুলেন্স সার্ভিস,কুমিল্লা।",23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","কুমিল্লা মেডিক্যাল কলেজ হাসপাতাল,কুমিল্লা।, Cumilla",ChIJiQRjJ6x_VDcRIX6YtryVJoA
+Jalgaon kobiraj,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Cumilla",ChIJ8Xuzz-F9VDcRC8aIlfc0--4
+Pubg rj mental academy hall,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJCTfHZW1_VDcRC_llb3F816w
+Sharma Maternity Care,23.4606574,91.1809065,3.6,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madina Masjid Rd, Cumilla",ChIJG9V9ZyZ_VDcRbab8ETZMYD8
+Md.Nure Alam,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","গোপালনগর, কুমিল্লা",ChIJf4F5WSZ_VDcR_XhdOmU7Xj4
+Care Hospital,23.4606574,91.1809064,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","South Bangura . Bangura Bazar, কুমিল্লা",ChIJKS-EbQ5_VDcRGt46BI8b4vg
+Comilla Apollo Hospital,23.4593695,91.1808324,4.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJvx1NpyV_VDcRS6p9I-PhJNk
+Shohel Medical Hall,23.461679,91.1797508,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJ6bTWXy9_VDcRfdVjDRT6-lc
+Medi Teak,23.4613665,91.1794478,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Cumilla",ChIJ9WM4Xy9_VDcRO6vS7gmrBXA
+মেসার্স ফল্মি এন্টারপ্রাজ,23.4612986,91.1793006,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJfcmSnmp_VDcRJoj9ruqsHrk
+বালুয়াকান্দি কমিউনিটি ক্লিনিক,23.5785031,90.7473401,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Baluakandi,ChIJVVVVlftPVDcRYAFSHAU8etE
+Madina Eye Hospital & Phaco Center,23.6829313,90.7837069,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Homna,ChIJj6JRek9HVDcRGgkHn3BIcms
+homna central hospital,23.6826544,90.7822971,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Homna,ChIJUb738mVGVDcRt5gvyPqEcqM
+Life Care Hospital,23.6831148,90.7841207,4,4,"['hospital', 'health', 'point_of_interest', 'establishment']","রোড সংলগ্ন, Homna",ChIJmcjj8mVGVDcRR7AJeWyBT8c
+Homna Hospital,23.6814406,90.7824443,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Homna hospital Road,ChIJCWyuaTVHVDcRbKCRQ9YSNNg
+Upazila Health Complex Homna,23.6813167,90.7821391,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Homna hospital Road, Homna",ChIJS3DXWR5HVDcRBSU5ev9rpuw
+Homna Upazila Health Complex,23.681142,90.7823501,4.4,10,"['hospital', 'health', 'point_of_interest', 'establishment']","Upazila: Division:, হোমনা",ChIJAQDc-ExAVDcR-cKOgi5fOGY
+Modina Chasma Ghor and Eye Treatment Center,23.6833495,90.781536,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Homna,ChIJh-OwUCdHVDcR5xKhOLI2DuI
+Doctors Hospital,23.6833354,90.7850749,3.9,8,"['hospital', 'health', 'point_of_interest', 'establishment']","Homna - Gharmora Road, Homna",ChIJgRCMJGRGVDcRtq1tSsfP50U
+মা চসমা ঘর,23.6832107,90.7853233,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Homna - Gharmora Road, Homna",ChIJc9XAT1dHVDcRjd79WQnX21A
+মর্ডান ডায়াগনস্টিক সেন্টার,23.7055566,90.7956023,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Homna - Dulal Pur Road,ChIJ8VDKQOBHVDcRGjN_0SOZeE0
+Mathavanga Union Hospital,23.656573,90.7869816,3.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Katpotti Mathavanga Road, Mathavanga",ChIJi_EEL9JFVDcRZorXwRIFWoE
+চম্পকনগর সরকারি হাসপাতাল,23.6595343,90.8029868,4.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Homna Upazila,ChIJ0YO60yVEVDcRLVonavS0eVA
+GoariBhanga community clinic,23.6632672,90.7556575,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Homna Upazila,ChIJI6iyEydFVDcRPr7T720Lj24
+Mollah Medical Hall,23.713314,90.7979783,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Homna Upazila,ChIJx7aXzZFHVDcRrjA1XpmTmU4
+মেডিকেল হাসপাতাল এন্ড ডায়াগনোস্টিক,23.6710109,90.8179826,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Primary School Road, Mymensingh",ChIJ8cOMuCFHVDcRfEEshVkQ7kw
+বাংলাদেশ রেড ক্রিসেন্ট সোসাইটি,23.650247,90.7719474,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Haji Zafor Ali Molla Road, মাথাভাঙ্গা",ChIJQYnGg3ZFVDcR5X5D0xnstZI
+মুন্সিকান্দি জুম্মা মসজিদ,23.6499302,90.771871,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Haji Zafor Ali Molla Road, মাথাভাঙ্গা",ChIJ-8BBS5ZFVDcRz6lWSReMO-4
+মুন্সিকান্দি কমিউনিটি ক্লিনিক,23.6472478,90.7707321,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Munshikandi,ChIJ9QWJkB5FVDcR_YMTjyGre3M
+Asadpur Hospital,23.6856118,90.8278745,2.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Karakandi - Kalmina Link Road,ChIJla7I7rRGVDcR-yYjJWjBDPA
+Chandpuri shah Hospital,23.1822843,91.092512,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam,ChIJFdPLA9SaVDcRBGFQBFa7gMc
+"Ultra-Modern Hospital, Comilla-3580",23.1686871,91.2035397,3.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJQQ_Qo1ydVDcR-F1ucfxfCgU
+Anwar Medical Centre (Pvt),22.9444459,91.1024275,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Begumgonj Setu, N104, Mir Warishpur",ChIJ-_OTGqyjVDcRu6D7Aln5XHU
+Bipulshar Government Hospital,23.0772519,91.104641,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Manoharganj Upazila,ChIJSeBIrnGZVDcRprY6eROw46U
+Sun Diagnostic Centre,23.0509273,91.1113216,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Bypass More, Sonaimuri",ChIJa4pws7uZVDcR0aRrFTsUewE
+Sumona Manzill,23.0509273,91.1113216,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Sonaimuri,ChIJAVozmU-ZVDcRGdl1g0dkQ2w
+Sonaimuri Healthcare Center,23.0509273,91.1113216,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Sonaimuri,ChIJ_____xuZVDcRayNmy7gmiBg
+নাথেরপেটুয়া উপসাস্থ্য কেন্দ্র,23.1052028,91.1116144,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Natherpetua,ChIJT5tMV8ObVDcRhS57T54mG2Y
+p. bogabaria clinic,23.0566831,91.0848285,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Nadana,ChIJP4DuPFiZVDcRSZ9K5cxp4rk
+নদনা ইউনিয়ন স্বাস্থ্য ও পরিবার কল্যাণ কেন্দ্র,23.0621089,91.0774383,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","A097, Nadana",ChIJfzuixv2ZVDcRJx6jhyx7QEE
+Nodona Government Hospital,23.0621544,91.0773951,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Nadana,ChIJq2NKWseZVDcRK9eOjYGYy6E
+Mohammad Shahid Ullah Bhuiya Medical Center,23.1131318,91.1162736,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Natherpetua,ChIJdTziROWbVDcRgbdi6JosmJs
+মোহাম্মদ শহীদ উল্ল্যাহ ভূঁইয়া মেডিকেল সেন্টার,23.1133609,91.1153447,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Natherpetua,ChIJbw47TOCbVDcRVyWJJjyLyXU
+Natherpetua Bhuiyan Medical center,23.1134753,91.1168326,5,7,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Laksam",ChIJZ3A3w-qbVDcRCM68mNBzjT8
+Bhuiyan Medical Center,23.1136549,91.1166384,5,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla- Laksam- Sonaimuri- Chowmohani -Noakhali Highway, Natherpetua",ChIJETDi88GbVDcRcypW1BON1V8
+Sonaimuri General Hospital,23.038656,91.1061189,4.5,24,"['hospital', 'health', 'point_of_interest', 'establishment']","Chatar Baria Road, Sonaimuri",ChIJ8fUxUfuYVDcR604qMTqUpQQ
+Medicare Hospital,23.0404125,91.0955664,4.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Sonaimuri,ChIJz7oDwVWYVDcRGhJTgKDMBNg
+All Square Hospital (Private ),23.0401943,91.0956851,3.3,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Sonaimuri,ChIJzf8ZwlWYVDcRfAJdnWr3LTM
+জাহানারা হাসপাতাল (প্রা.),23.0383148,91.1059559,4.6,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Chowrasta Taxi Stand, ফেনী-নোয়াখালী মহাসড়ক, Chowmuhani",ChIJg18CUPuYVDcRb2YjISJi4q0
+Niramoy diagnostic Center,23.0390633,91.0965306,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Sonaimuri Upazila,ChIJL3d4sCeZVDcRPtQjBDjMDGk
+Laksam Diagnostic Center and Hospital,23.2372684,91.1238818,4.3,4,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Laksam",ChIJwapz8mKEVDcRrklR9RmWzh4
+Chandpuri shah Hospital,23.1822843,91.092512,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam,ChIJFdPLA9SaVDcRBGFQBFa7gMc
+Bangodda Government Hospital,23.2227316,91.2357732,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Bangadda,ChIJAUZCAQ59UzcRJh3G43z09_c
+"Ultra-Modern Hospital, Comilla-3580",23.1686871,91.2035397,3.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJQQ_Qo1ydVDcR-F1ucfxfCgU
+মাহিনী সরকারী হাসপাতাল,23.1957981,91.2417521,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","mahini bazar nangalkot, Comilla",ChIJpRkkMy59UzcRwxi1w_WrCaU
+Diganta Diagnostic & Hospital,23.2571417,91.1215711,1.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksham,ChIJXc9skGyEVDcRf7dCYhu9v9s
+লাকসাম আধুনিক হাসপাতাল (প্রা:),23.2469405,91.1219719,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Shopner Shirhi, Stadium Road, Laksam",ChIJ0W-BTQuFVDcR0PHxuf3WkSo
+Laksam Adhunik Hospital (Pvt) Ltd,23.2466197,91.1219743,3.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']","19 M142, Laksam",ChIJO9J47WWEVDcRh5_Ns-Wr-Ts
+Laksham Me clinic,23.2472704,91.1293029,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam Upazila,ChIJ9x6Un2iFVDcRyukrMXyr9uI
+Laksam Lifecare Hospital (Pvt) Ltd.,23.2448524,91.1211746,4.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam Upazila,ChIJyW6xQZiFVDcRcjY7MzlRFoY
+Siddik mefical Hall,23.2443701,91.1235398,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Rubel's House, 12 Comilla- Laksam- Sonaimuri-Noakhali Highway, Laksam",ChIJ29ceSl-FVDcRk4OyFcDdBpc
+"Siddique Medical Center, Uttar Bazar, Laksham",23.2435223,91.1216271,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","A185, Laksam",ChIJDTHwOmSEVDcRouSbntBXdz0
+Lit Healthcare,23.2436912,91.1206725,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Noyakhali, Railgate, মাইজদী",ChIJW1E7cEaFVDcRimbgV0sOssQ
+Momotamoye Hospital Private Limited,23.2420078,91.1194105,4.2,6,"['hospital', 'health', 'point_of_interest', 'establishment']","Exit Road, Laksam",ChIJKTsrz2aEVDcRDPwMzuo31WY
+মমতাময়ী হাসপাতাল,23.2418402,91.1194166,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","২নম্বর, রোড, দৌলতগঞ্জ, Laksam",ChIJfxFry32FVDcRiOwlqTG_gVo
+Aamena Medical Hospital,23.2416653,91.1199725,4.1,10,"['hospital', 'health', 'point_of_interest', 'establishment']","Exit Road, Laksam",ChIJIfFvtGaEVDcRftdMeJgNAoo
+Unity Hospital,23.2392539,91.1240931,2.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam,ChIJE7W3EGOEVDcRBuI_S0jTFQE
+Laksam Maa o Sahsu Care Hospital (pvt),23.23843,91.1233101,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Aposh tower Bipass,ChIJkd2bzIqFVDcRUIEy70_h_Ts
+Laksam Medical Center,23.2382799,91.1240347,4.2,13,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla- Laksam- Sonaimuri-Noakhali Highway, Laksam",ChIJLW5q4WKEVDcRFgS08u3TrRg
+Al Noor Hospital,23.2381175,91.1237102,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","221 Noor Plaza, Bypass Road,Laksham,comilla, Laksam",ChIJTZ5v_GKEVDcRCzeHbEcDKv8
+Chandpuri shah Hospital,23.1822843,91.092512,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam,ChIJFdPLA9SaVDcRBGFQBFa7gMc
+"Ultra-Modern Hospital, Comilla-3580",23.1686871,91.2035397,3.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJQQ_Qo1ydVDcR-F1ucfxfCgU
+Laksam Diagnostic Center and Hospital,23.2372684,91.1238818,4.3,4,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Laksam",ChIJwapz8mKEVDcRrklR9RmWzh4
+Shamsul Alam General Hospital (শামছুল আলম জেনারেল হাসপাতাল),23.1122124,91.0765746,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Lakshmanpur Bazar,ChIJ36bJvQKbVDcRUzWfpqVHAas
+Shamsul Alom General Hospital,23.1129828,91.0752436,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Lakshmanpur Bazar,ChIJd2iBUhSaVDcRw3gRdpDGlos
+শহিদ আবরার চত্বর Sahid Abrar Square,23.1130435,91.0752056,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Lakshmanpur Bazar, লাকসাম",ChIJS_O2tYWbVDcRcHivw5Sq9Hw
+ADHUNIK MEDICINE CORNER & DOCTORS CHAMBER,23.1166707,91.0777722,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Manoharganj Upazila,ChIJL1a1fFmbVDcRz7xf66DBL9I
+ফি-আমানিল্লাহ্ হাসপাতাল,23.1166708,91.0777723,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Manoharganj Upazila,ChIJZyL-fnObVDcRtJvCCASvumc
+Bangladesh Therapy & Rehabilitation Foundation (BTRF),23.1215699,91.0908864,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Manoharganj Upazila, Rd No. 12, ঢাকা",ChIJHz4DUQKbVDcR4VqhoLSsUL0
+আমেনা মেডিকেল,23.123618,91.1036005,2.2,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Manoharganj Upazila,ChIJZ-pCI7GbVDcRGhkAKYUN16Q
+নাথেরপেটুয়া উপসাস্থ্য কেন্দ্র,23.1052028,91.1116144,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Natherpetua,ChIJT5tMV8ObVDcRhS57T54mG2Y
+মোহাম্মদ শহীদ উল্ল্যাহ ভূঁইয়া মেডিকেল সেন্টার,23.1133609,91.1153447,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Natherpetua,ChIJbw47TOCbVDcRVyWJJjyLyXU
+Mohammad Shahid Ullah Bhuiya Medical Center,23.1131318,91.1162736,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Natherpetua,ChIJdTziROWbVDcRgbdi6JosmJs
+Bhuiyan Medical Center,23.1136549,91.1166384,5,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla- Laksam- Sonaimuri- Chowmohani -Noakhali Highway, Natherpetua",ChIJETDi88GbVDcRcypW1BON1V8
+Natherpetua Bhuiyan Medical center,23.1134753,91.1168326,5,7,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Laksam",ChIJZ3A3w-qbVDcRCM68mNBzjT8
+Devpur Community Clinic,23.078837,91.054678,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJZ2h-QBOXVDcRqS8e0_-xg64
+Bipulshar Government Hospital,23.0772519,91.104641,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Manoharganj Upazila,ChIJSeBIrnGZVDcRprY6eROw46U
+সেবা ডায়াগনস্টিক সেন্টার,23.153698,91.059311,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Manoharganj Upazila,ChIJeyOJu12bVDcRQwZdIEWeFgg
+Monohorgonj Upazila Health Complex,23.153882,91.058448,3.8,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Manoharganj Upazila,ChIJw3Mx4XeQVDcRQmOtskezD-w
+উত্তর ফেনুয়া বন্ধু কুটির হাসপাতাল,23.155034,91.1017556,4.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']","Banduyan - Fenua - Munshirhat Road, Uttor Fenoua",ChIJY0HTfxubVDcRtYqlXsQtqLU
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+কাকিয়ারচর কমিউনিটি ক্লিনিক,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কাকিয়ারচর,ChIJweQ6ozF_VDcR1aIqgnddjv0
+homio pathik collage,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla poraton, Chowdhury Para",ChIJ4aPj5y1_VDcRZWAFTAxEIMw
+"সেবা এ্যাম্বুলেন্স সার্ভিস,কুমিল্লা।",23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","কুমিল্লা মেডিক্যাল কলেজ হাসপাতাল,কুমিল্লা।, Cumilla",ChIJiQRjJ6x_VDcRIX6YtryVJoA
+Jalgaon kobiraj,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Cumilla",ChIJ8Xuzz-F9VDcRC8aIlfc0--4
+Pubg rj mental academy hall,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJCTfHZW1_VDcRC_llb3F816w
+Sharma Maternity Care,23.4606574,91.1809065,3.6,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madina Masjid Rd, Cumilla",ChIJG9V9ZyZ_VDcRbab8ETZMYD8
+Md.Nure Alam,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","গোপালনগর, কুমিল্লা",ChIJf4F5WSZ_VDcR_XhdOmU7Xj4
+Care Hospital,23.4606574,91.1809064,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","South Bangura . Bangura Bazar, কুমিল্লা",ChIJKS-EbQ5_VDcRGt46BI8b4vg
+Comilla Apollo Hospital,23.4593695,91.1808324,4.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJvx1NpyV_VDcRS6p9I-PhJNk
+Shohel Medical Hall,23.461679,91.1797508,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJ6bTWXy9_VDcRfdVjDRT6-lc
+Medi Teak,23.4613665,91.1794478,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Cumilla",ChIJ9WM4Xy9_VDcRO6vS7gmrBXA
+মেসার্স ফল্মি এন্টারপ্রাজ,23.4612986,91.1793006,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJfcmSnmp_VDcRJoj9ruqsHrk
+Batagow Community Clinic,23.1626721,91.2395343,2.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJk2PrI-hiUzcR153_IdTyv1A
+"Ultra-Modern Hospital, Comilla-3580",23.1686871,91.2035397,3.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJQQ_Qo1ydVDcR-F1ucfxfCgU
+মাহিনী সরকারী হাসপাতাল,23.1957981,91.2417521,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","mahini bazar nangalkot, Comilla",ChIJpRkkMy59UzcRwxi1w_WrCaU
+Bangodda Government Hospital,23.2227316,91.2357732,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Bangadda,ChIJAUZCAQ59UzcRJh3G43z09_c
+Dhalua Medical Center,23.1255524,91.2386599,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Dhalua,ChIJo_SQsjxjUzcRzC70VaJ70Fc
+ঢালুয়া মেডিকেল সেন্টার,23.1255663,91.2387256,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Dhalua,ChIJXR7N249jUzcRHvFeEKShpiw
+H.M.C হোমনাবাদ মেডিকেল সেন্টার,23.1241504,91.2389475,5,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Dhalua,ChIJSV_SDBVjUzcRa01TgubqnDk
+Zaman's Clinic & Hospital,23.1155532,91.2313618,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJAQAAAEBiUzcRYNU9iAWQ0rU
+Aliara Al Obyad Hospital,23.1424142,91.2393482,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJO3CxCfdiUzcRYOMFiEVOYvQ
+আল-ওবায়েদ হসপিটাল,23.1461732,91.2381338,4,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJWwepJfFiUzcR4Bk-eYfeVpo
+মজুমদার মেডিপ্যাথ ফার্মেসী,23.1271023,91.215076,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJT0pl7rRjUzcRuhYBDsHw4kY
+গোমকোট সরকারী হসপিটাল,23.1461276,91.2232506,2.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJGZ2If8xjUzcRgTvIqiFAK4U
+গ্রামীন মেডিকেল হল,23.1482579,91.2529221,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJ96qn_wJjUzcRE3dGAzXCxQw
+নাঙ্গলকোট হোমিওপ্যাথি মেডিকেল কলেজ ও হাসপাতাল,23.1522728,91.2305348,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJL0GnAJ1jUzcR5WWSLt87e7c
+Nagolkot physiotherapy center,23.1528375,91.2229478,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJD6eNzfhjUzcRb9G7J-nZ7fM
+Shreehashy Community Clinic,23.1257704,91.1987483,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJsQTAbYudVDcRHsiAFPCSVpA
+VARD EYE HOSPITAL,23.1450701,91.2704672,3.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram Upazila,ChIJUaYcWHNjUzcRVwx01nBOuqo
+VARD Kamal Eye Hospital,23.1455947,91.2703775,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Fulgram,ChIJq7Li8oJjUzcRmCO1-TROmpA
+আফছার উদ্দিন মাসারপাড়া Masarpara Bottali,23.0924189,91.2216295,5,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJEU5I4aFjUzcRAgyKpIHwoXA
+"পন্নারা,কনকাপৈত, চৌদ্দগ্রাম, Pannara, Kankapath, Chauddagram.",23.1470937,91.2712026,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কাঘাইশ মলিয়ারা রোড,ChIJJ2_SeHJjUzcRkuzoc_ROBrg
+Batagow Community Clinic,23.1626721,91.2395343,2.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJk2PrI-hiUzcR153_IdTyv1A
+Kosmo Politan Hospital,23.0151619,91.3934797,4.4,11,"['hospital', 'health', 'point_of_interest', 'establishment']","Grand Trunk Road, Feni",ChIJrZgrpTloUzcRCMKzoKMCtTo
+Cosmopolitan Diagonstic and Consaltation Center,23.0146127,91.3939067,3,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Feni,ChIJ_d6bvzloUzcR5cavTQv2Q_g
+Cosmopoliton Diagonastic and Consaltation Center,23.0141397,91.3943896,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Haji Latif Tower,, ফেনী",ChIJd04k6TloUzcRhHwkUbJTimA
+"Ultra-Modern Hospital, Comilla-3580",23.1686871,91.2035397,3.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJQQ_Qo1ydVDcR-F1ucfxfCgU
+Al Amin General Hospital,23.0144413,91.3991158,4.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Mizan Road, Feni",ChIJk3EEljZoUzcRWil7hZ3YOtg
+মাহিনী সরকারী হাসপাতাল,23.1957981,91.2417521,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","mahini bazar nangalkot, Comilla",ChIJpRkkMy59UzcRwxi1w_WrCaU
+New Bangladesh Medical,23.0878719,91.298038,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Gunaboti Bazar Road,ChIJaQbMiKhmUzcRBMzhFN_vyH8
+হাবিব মেডিকেল,23.0878781,91.2980832,5,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Satbaria - Gunabati-Podua - Feni link Road,ChIJ64jfDhJnUzcRwb6Ub77_Cl4
+Monwara Rakib Diagnostic and Research Center,23.087992,91.2986414,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Gunabati,ChIJkfb8WWxnUzcRiW_kn6coUb0
+Gunabati Medical Center,23.0899278,91.2983534,3,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Gunabati-Saheb bari Road,ChIJY_33_IhnUzcR_QLL_BorLT4
+Mojumder Medical Hall,23.0902137,91.297802,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Gunabati-Saheb bari Road, Comilla",ChIJkSRTMOJnUzcRnRwsAqBHN1E
+"Satbaria, Packoribari",23.0748333,91.2814703,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Bazar, Satbaria",ChIJJ5cZ56RhUzcRUaLsd_lVLgw
+বহরম পাড়া কমিউনিটি ক্লিনিক,23.0749839,91.278271,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Bhaharam para, Satbaria",ChIJOcWb7qFhUzcRN-Dcpo_bfo0
+Gunabati Medical Holl,23.0872308,91.3254575,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Gunabati Podua Road,ChIJQfk144BmUzcRqMsXtsLIEEI
+খোন্দকার মেডিসিন কর্ণার (ADD BY MTK),23.1202384,91.3044451,5,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Chowdhury Bazar,ChIJDwW4NmtlUzcR_lZ6xmKBliU
+কাকৈরখোলা কমিউনিটি ক্লিনিক,23.1231557,91.2984151,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Hatbair Road, Hatbair",ChIJ5SDEqj1lUzcRt8W4MAvyQm8
+Al-Watan General Hospital,23.0903608,91.3361833,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chauddagram Upazila,ChIJu-LkDHhmUzcRL0h19ZuQQio
+Gangra Community Clinic,23.1110706,91.3350749,2,1,"['hospital', 'health', 'point_of_interest', 'establishment']","N1, Gangra",ChIJx8fD_MhlUzcRxVw9EBTDDhY
+Bhazonkora Community Health Center,23.0991936,91.341986,4.5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Karoon Dighi Road,ChIJNaGrh9tlUzcRTC1IFw9YEQ4
+"Ultra-Modern Hospital, Comilla-3580",23.1686871,91.2035397,3.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJQQ_Qo1ydVDcR-F1ucfxfCgU
+Batagow Community Clinic,23.1626721,91.2395343,2.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot Upazila,ChIJk2PrI-hiUzcR153_IdTyv1A
+মাহিনী সরকারী হাসপাতাল,23.1957981,91.2417521,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","mahini bazar nangalkot, Comilla",ChIJpRkkMy59UzcRwxi1w_WrCaU
+Bangodda Government Hospital,23.2227316,91.2357732,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Bangadda,ChIJAUZCAQ59UzcRJh3G43z09_c
+Laksam Diagnostic Center and Hospital,23.2372684,91.1238818,4.3,4,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Laksam",ChIJwapz8mKEVDcRrklR9RmWzh4
+Chandpuri shah Hospital,23.1822843,91.092512,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Laksam,ChIJFdPLA9SaVDcRBGFQBFa7gMc
+সাব্বির হোমিও ক্লিনিক,23.1694062,91.1977158,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Chal Bazar Road, Nangalkot",ChIJzSF8CxmdVDcRY3elgELAQH4
+apollo medical,23.1696121,91.1990976,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","লাকসাম-নাঙ্গলকোট রোড, Nangalkot",ChIJEzZE47qdVDcRIbOCoObgLRc
+Apollo medical services,23.1696444,91.1991223,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","লাকসাম-নাঙ্গলকোট রোড, Nangalkot",ChIJ86AQt8OdVDcR2hywu1Iw4eA
+Nangalkot Upazila Health Complex,23.1709671,91.1986256,4.2,27,"['hospital', 'health', 'point_of_interest', 'establishment']","Z1048, Nangalkot",ChIJ5VIKPkSdVDcR83JRK1S-s14
+জেনারেল হসপিটাল,23.1706077,91.1991731,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJeZDCa0SdVDcRR7RbIhdzwpw
+Nova Hospital Nangalkot,23.169839,91.1998222,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","লাকসাম-নাঙ্গলকোট রোড, Nangalkot",ChIJueuL_h6dVDcRzBoaEABiKyQ
+Nangalkot General Hospital,23.1680204,91.1998104,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJ0UV8RGSdVDcRgAc6ddrrnBE
+সাব্বির হোমিও ক্লিনিক,23.1669764,91.198699,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJE5SBU42dVDcREvxnpAeCO9g
+"Surjer Hasi Clinic, Nangalkot",23.166739,91.1969622,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","খিলা-নাঙ্গলকোট রোড, Nangalkot",ChIJBZtJggidVDcRALggqoynFv8
+নাঙ্গলকোট ডক্টরস ল্যাব,23.1664844,91.1990986,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJGe9vtSudVDcRW9VVbl_QNqA
+Janota farmacy,23.1663933,91.1989283,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Z1048, Nangalkot",ChIJc3CpSkKdVDcRq2eBIwtpd8c
+Nangalkot Animal Hospital,23.1668929,91.1948079,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","খিলা-নাঙ্গলকোট রোড, Nangalkot",ChIJ0Z3sYXKdVDcRqiH80rTCzvQ
+Nangalkot Ultramodern Hospital,23.1684643,91.2022385,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Bypass Road, Nangalkot",ChIJM3XVv7ydVDcRTW0Y5J2jCvc
+পাটোয়ারী জেনারেল হাসপাতাল,23.165286,91.2002614,1,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Nangalkot,ChIJDRLV9UKdVDcRM8lUDyCwwjA
+Cumilla Medical College Hospital,23.4515415,91.2029603,4.4,211,"['hospital', 'health', 'point_of_interest', 'establishment']","Kuchaitoli, Doctor Akhtar Hameed Khan Road, কুমিল্লা",ChIJawVBzkJ_VDcRKSUk-uPiBA8
+Moon Hospital Limited,23.464159,91.176425,3.8,99,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJB5l0Ail_VDcRWQKr9Y-6y8I
+Mother Care Center,23.4574801,91.1833614,4.2,25,"['hospital', 'health', 'point_of_interest', 'establishment']","523, Govt. Women's College Road, কুমিল্লা",ChIJYR6ZMjt_VDcRNLh053OOspk
+Momota Ma O Shishu General Haspatal,23.4596091,91.1748746,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']","Ranir Bazar, কুমিল্লা",ChIJ49io6id_VDcRcyJPfcNKXIg
+Comilla Police Hospital,23.4665149,91.1730962,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJjUUHENZ-VDcRNC7kAVWS-2s
+"AFC Health Fortis Heart Institute, Cumilla",23.4696747,91.1480904,4.4,40,"['hospital', 'health', 'point_of_interest', 'establishment']","Alekhar Chor, Cumilla",ChIJB9popbN-VDcR037Ej92_S_o
+Eye Hospital,23.4698392,91.1375577,4.6,19,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla Adarsha Sadar Upazila,ChIJp5Tqsqt-VDcRrTa_LygQrDQ
+Eastern Medical College & Hospital,23.4792405,91.0731434,4.3,109,"['hospital', 'university', 'health', 'point_of_interest', 'establishment']",Dhaka - Chittagong Highway,ChIJt6B8tdZ-VDcRivKZlPdt3bo
+কাকিয়ারচর কমিউনিটি ক্লিনিক,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কাকিয়ারচর,ChIJweQ6ozF_VDcR1aIqgnddjv0
+homio pathik collage,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla poraton, Chowdhury Para",ChIJ4aPj5y1_VDcRZWAFTAxEIMw
+"সেবা এ্যাম্বুলেন্স সার্ভিস,কুমিল্লা।",23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","কুমিল্লা মেডিক্যাল কলেজ হাসপাতাল,কুমিল্লা।, Cumilla",ChIJiQRjJ6x_VDcRIX6YtryVJoA
+Jalgaon kobiraj,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Cumilla",ChIJ8Xuzz-F9VDcRC8aIlfc0--4
+Pubg rj mental academy hall,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Cumilla,ChIJCTfHZW1_VDcRC_llb3F816w
+Sharma Maternity Care,23.4606574,91.1809065,3.6,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madina Masjid Rd, Cumilla",ChIJG9V9ZyZ_VDcRbab8ETZMYD8
+Md.Nure Alam,23.4606574,91.1809065,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","গোপালনগর, কুমিল্লা",ChIJf4F5WSZ_VDcR_XhdOmU7Xj4
+Care Hospital,23.4606574,91.1809064,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","South Bangura . Bangura Bazar, কুমিল্লা",ChIJKS-EbQ5_VDcRGt46BI8b4vg
+Comilla Apollo Hospital,23.4593695,91.1808324,4.5,4,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJvx1NpyV_VDcRS6p9I-PhJNk
+Shohel Medical Hall,23.461679,91.1797508,4,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Shahid Khawaja Nizamuddin Road, Cumilla",ChIJ6bTWXy9_VDcRfdVjDRT6-lc
+Medi Teak,23.4613665,91.1794478,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","R141, Cumilla",ChIJ9WM4Xy9_VDcRO6vS7gmrBXA
+মেসার্স ফল্মি এন্টারপ্রাজ,23.4612986,91.1793006,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kandirpar, Cumilla",ChIJfcmSnmp_VDcRJoj9ruqsHrk
+Brahmanpara Upazila Health Complex,23.6133333,91.0943145,4.7,6,"['hospital', 'health', 'point_of_interest', 'establishment']","Brahmanpara - Dulalpur GC Road, Brahmanpara",ChIJFcASVFRwVDcRsmSLDTrlcOI
+The Vision Hospital,23.6896965,91.0912514,4.6,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla - Mirpur Road,ChIJ11ZMqfxwVDcRNvsnPsacbnw
+Muradnagar Upazila Health Complex,23.6401853,90.9317536,4.1,21,"['hospital', 'health', 'point_of_interest', 'establishment']","Hospital Lane, Muradnagar",ChIJVSlDn71pVDcR262H4eNVVXM
+Trauma Centre,23.6376429,90.9712205,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla-Sylhet Road,ChIJDQa_tzlpVDcR6HCyDl-QI98
+Life Line Hospital,23.6418902,90.9699076,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",,ChIJXbdYOPNpVDcRxPjZTLlaFOQ
+মা ও শিশু জেনারেল হাসপাতাল,23.620923,90.974744,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Debidwar Upazila,ChIJVZFkjfdpVDcRh7OY1VZXozQ
+সালাম এন্ড আতিক প্লাজা,23.6207997,90.9747456,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Debidwar,ChIJndKu_ChpVDcRAB7qcpc8hIY
+আল-ইসলাম হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার,23.6124543,90.9821954,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Debidwar Upazila,ChIJKQxeEcJvVDcR3htsj6T8rnQ
+Community Health Clinic,23.6625417,90.9466575,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Mucha Gora,ChIJO0TaVn5pVDcRglLhqgVJboM
+Micro Path & Hospital (PVT.) LTD.,23.6382304,90.9331887,4.3,13,"['hospital', 'health', 'point_of_interest', 'establishment']","Clinic Lane, Muradnagar",ChIJdcVu3rxpVDcRIJag7JrC23k
+মাইক্রো প্যাথ এন্ড হসপিটাল (প্রাঃ) লিমিটেড,23.6383446,90.9331528,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Nimaykandi,ChIJi8vSOudpVDcRMS8zCXP7tXw
+Al Arafa Diagnostic Centre,23.6083408,90.9881073,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Comilla - Sylhet Highway, Debidwar",ChIJd4DsXy5vVDcR-7Z3V8lCZY8
+Muradnagar Hospital,23.6405101,90.9317984,4.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']","Hospital Road, মুরাদনগর",ChIJx1qynb1pVDcRf0aDCA09UX8
+DR KAMRUL ISLAM (CHAMBER),23.6390611,90.9316828,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Razzak Plaza, Hospital Lane, Muradnagar",ChIJ6ZBTvsZpVDcREtV--DihphA
+ঢাকা ডেন্টাল মুরাদনগর,23.6380878,90.9305116,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Thana Road, Muradnagar",ChIJS5PRVflpVDcRloXHR-7Nqhs
+ULO Muradnogor,23.6416384,90.9305404,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Bancharampur - Muradnagar Road, Muradnagar",ChIJw2jA5TZpVDcRtIT0WNgQS_4
+Diamond Pharmacy,23.6386033,90.9299228,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kacha Bazar Lane, Muradnagar",ChIJefiOSGJpVDcRh8x75d46AXg
+Ma Moni General Hospital,23.6052867,90.9888017,2,1,"['hospital', 'health', 'point_of_interest', 'establishment']","North Side Of Post Office, Comilla - Sylhet Highway, Debidwar",ChIJIWxS1jFvVDcR7kYQmfzOIY8
+A B M Gulam Mustafa health institute,23.6052957,90.988966,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla - Sylhet Highway,ChIJ2-wYOl1vVDcReArdViILf5M
+"Mamoni General Hospital Debidwe,comilla",23.605197,90.9890022,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla - Sylhet Highway,ChIJT9QlkYlvVDcREIKV5kJjAl4
+Muradnagar Upazila Health Complex,23.6401853,90.9317536,4.1,21,"['hospital', 'health', 'point_of_interest', 'establishment']","Hospital Lane, Muradnagar",ChIJVSlDn71pVDcR262H4eNVVXM
+Micropath&Hospital,23.6444895,90.9271367,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Muradnagar Upazila,ChIJcQaaSPlpVDcRPUi2Mu00AA8
+ULO Muradnogor,23.6416384,90.9305404,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Bancharampur - Muradnagar Road, Muradnagar",ChIJw2jA5TZpVDcRtIT0WNgQS_4
+Muradnagar Hospital,23.6405101,90.9317984,4.3,6,"['hospital', 'health', 'point_of_interest', 'establishment']","Hospital Road, মুরাদনগর",ChIJx1qynb1pVDcRf0aDCA09UX8
+Diamond Pharmacy,23.6386033,90.9299228,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kacha Bazar Lane, Muradnagar",ChIJefiOSGJpVDcRh8x75d46AXg
+DR KAMRUL ISLAM (CHAMBER),23.6390611,90.9316828,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Razzak Plaza, Hospital Lane, Muradnagar",ChIJ6ZBTvsZpVDcREtV--DihphA
+ঢাকা ডেন্টাল মুরাদনগর,23.6380878,90.9305116,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Thana Road, Muradnagar",ChIJS5PRVflpVDcRloXHR-7Nqhs
+মাইক্রো প্যাথ এন্ড হসপিটাল (প্রাঃ) লিমিটেড,23.6383446,90.9331528,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Nimaykandi,ChIJi8vSOudpVDcRMS8zCXP7tXw
+Micro Path & Hospital (PVT.) LTD.,23.6382304,90.9331887,4.3,13,"['hospital', 'health', 'point_of_interest', 'establishment']","Clinic Lane, Muradnagar",ChIJdcVu3rxpVDcRIJag7JrC23k
+হান্নান কবিরাজ Hannan kobiraj,23.6631033,90.9209448,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Poschim Para Road, Karimpur",ChIJKUE0b2RpVDcREgyXfh-I6vo
+Community Health Clinic,23.6625417,90.9466575,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Mucha Gora,ChIJO0TaVn5pVDcRglLhqgVJboM
+দারোরা ইউনিয়ন স্বাস্থ্য ও পরিবার কল্যান হসপাতাল,23.6121648,90.9062437,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Muradnagar Upazila,ChIJQ-SXgBlpVDcRBZSaFR-aNE8
+প্রলয় মেডিকেল হল,23.6111223,90.9066245,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Darora,ChIJGYLSWKdpVDcRUKBD-4UGmzg
+Life Line Hospital,23.6418902,90.9699076,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",,ChIJXbdYOPNpVDcRxPjZTLlaFOQ
+Trauma Centre,23.6376429,90.9712205,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Comilla-Sylhet Road,ChIJDQa_tzlpVDcR6HCyDl-QI98
+Kamalla Union Health Clinic,23.6908896,90.9153845,3.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Kamalla Bazar Road,ChIJJYMEYW1qVDcRWTD-OKudCt0
+জাহাঙ্গীর সুপার মার্কেট হাসপাতাল,23.6067718,90.8950032,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJ04LpWx5DVDcRIC-JtoCEOsQ
+মুন মডেল ফার্মাসী,23.6358343,90.8750318,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Bakhrabad Bazar,ChIJjW_u1g5DVDcRXwl2A3OX_H4
+Ma-moni Medicine Cornar,23.6356339,90.874852,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Bakhrabad Bazar,ChIJ-w2Q1RZDVDcRJp9Sxwh8jyQ
+মা ও শিশু জেনারেল হাসপাতাল,23.620923,90.974744,1,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Debidwar Upazila,ChIJVZFkjfdpVDcRh7OY1VZXozQ
+Uzirpor Hospital,23.4813367,90.867472,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ3crZqixcVDcRrzwpS9tk47w
+Gouripur City Hospital,23.5393618,90.7842367,4,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJgSNPsOVaVDcRYZfWL_bqO7g
+Green Lab Hospital,23.5393726,90.783552,4,8,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJ2eeztuVaVDcRnYsXoQ-vNUg
+মা ও মেডিকেল হল,23.4949809,90.7978677,5,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi Upazila,ChIJzXEdGMlbVDcRXsPwDbaoqIk
+বালুয়াকান্দি কমিউনিটি ক্লিনিক,23.5785031,90.7473401,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Baluakandi,ChIJVVVVlftPVDcRYAFSHAU8etE
+Muradnagar Upazila Health Complex,23.6401853,90.9317536,4.1,21,"['hospital', 'health', 'point_of_interest', 'establishment']","Hospital Lane, Muradnagar",ChIJVSlDn71pVDcR262H4eNVVXM
+"Grandra Hospital, Grandra-3519",23.5554114,90.8787886,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Muradnagar Upazila,ChIJgZ1HHTtdVDcRf5IBj7p1PkE
+Paharpur Health Complex,23.5537887,90.906643,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Muradnagar Upazila, Paharpur, Muradnager, Comilla, Chittagong",ChIJ45mTFfZnVDcRiKaF8c_Q0Ys
+Sarker Digital Diagnostic And Treatment Center,23.5700654,90.8692805,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Chhaliakandi,ChIJpZWPWdpdVDcR3huylbex2MA
+poribar porikolpona,23.5713502,90.8693979,4.3,3,"['hospital', 'health', 'point_of_interest', 'establishment']","Eliotganj - Muradnagar Road, Chhaliakandi",ChIJmY4ZJdVCVDcRgqToeLtFN7I
+Gandra Hospital,23.537713,90.8999777,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJD1h2hyVdVDcRu2G2szaXfhY
+গ্রাম খিলাইল পার,23.5347911,90.8707041,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Eliotgonj-Muradnagar Road,ChIJM9fItOJdVDcRzO72KxllX9k
+কাজিয়াতল কমিউনিটি ক্লিনিক,23.5953026,90.8928832,4.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Muradnagar Upazila,ChIJa8RtZQhDVDcR_APgmABTGnc
+Bismillah Farmisi,23.5506589,90.9277375,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Panti - Rajamehar Road, Rajameher",ChIJURzwcY9nVDcRGmvVZg7lkoI
+Chatuli Community Clinic,23.5309637,90.914528,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Debidwar Upazila,ChIJN0PqellnVDcRufw3PaJmSV0
+ইলমা হোমিও সেন্টার,23.5305792,90.9140851,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Rajameher,ChIJb7U1iVFnVDcRYxP7vDWuCcM
+খুরুইল কমিউনিটি ক্লিনিক,23.5756832,90.9292372,2,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Krisnapur, Madhiya - Rajamehar Road, Noakhala",ChIJI3btQTtpVDcRKao9jRbry6M
+Siddeshwari Government Hospital,23.5893419,90.9257175,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Debidwar-Gazariya Rd, Siddheshwari",ChIJLajdGkZoVDcRaNX7ySYYrok
+Siddheshwari Govt. Hospital,23.5891056,90.9263207,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Siddheshwari",ChIJVQG0UQppVDcRuPq0urADB1E
+জাহাঙ্গীর সুপার মার্কেট হাসপাতাল,23.6067718,90.8950032,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJ04LpWx5DVDcRIC-JtoCEOsQ
+Muradnagar Upazila Health Complex,23.6401853,90.9317536,4.1,21,"['hospital', 'health', 'point_of_interest', 'establishment']","Hospital Lane, Muradnagar",ChIJVSlDn71pVDcR262H4eNVVXM
+Al Shams Pharmacy,23.7144034,90.8836484,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Ramchandrapur Road, Ramchandrapur",ChIJ9xjdKx1BVDcRmaj9yWs1uws
+"স্বাস্থ্য উপ-কেন্দ্র, রামচন্দ্রপুর",23.7161836,90.8797728,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Bus Station, Ramchandrapur Road, Ramchandrapur",ChIJ5U93TYdBVDcRm600P1asuOE
+Al shams Pharmacy,23.7167834,90.8793061,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Titash - Ramchandrpur Road, Ramchandrapur",ChIJMUkNKgpBVDcRruEKxk2hspU
+Jonercor ঝুনার চর ইমরান হোসেন টিপু,23.733131,90.85679,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Osman Road, Jonercor",ChIJhxyY7fNBVDcRJ_IHEy1NbPU
+মাতৃসদন ঔষধালয়,23.6854245,90.8762934,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Panchkitta Bazar,ChIJh-L78ShBVDcRTV-2bDdakCM
+Nayamat Medical Hall,23.7256112,90.8478959,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Ramkrishnapur,ChIJq8_krcJAVDcRzhuBVE2jKkg
+Loak Shevok Homeo Hall,23.7251244,90.8468357,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","rice area, Ramkrishnapur",ChIJywuRaWBBVDcRwiQ-5lhjLds
+রিয়াব ডিজিটাল হাসপাতাল,23.6910937,90.8543999,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Islamia Super Market Complex, Bot toli bazar",ChIJgycwNghBVDcR-uL512D4gEg
+Riab digital hospital,23.6910234,90.8544619,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Homna Upazila,ChIJf6pKBYVBVDcR-uxmtIQQ5nk
+চারন্দের ইউনিয়ন স্বাস্থ্য কেন্দ্র,23.6907493,90.854121,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","চারন্দের, বটতলী বাজার, হোমনা",ChIJ7QnIFyNBVDcRwkChAn5wKfE
+জনকল্যান ফার্মেসি,23.6942767,90.9171,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Kamalla Bazar Road,ChIJ226HR71rVDcRe844CtDOuF8
+Kamalla Union Health Clinic,23.6908896,90.9153845,3.7,3,"['hospital', 'health', 'point_of_interest', 'establishment']",Kamalla Bazar Road,ChIJJYMEYW1qVDcRWTD-OKudCt0
+kurakhal এতিমখানা,23.7256069,90.9296768,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Kurakhal High School Road, Kurakhal",ChIJmcmJCO5qVDcRwHxM_ngRoaw
+চন্দনাইল মডেল কমিউনিটি ক্লিনিক,23.7583735,90.9064542,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Ramchandrapur - Shalfa - Chandanail Road,ChIJVy4Y7CVrVDcR6go8VILxROg
+Rupasdi Hoglakandi Community Clinic,23.7563632,90.8532057,3,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Salimabad Rupasdi Road,, Rupasdi",ChIJnSnEH0JBVDcRcIXGQykfQDw
+ঘারমোড়া ইউনিয়ন স্বাস্থ ও পরিবার কল্যান কেন্দ্র,23.6774076,90.8495542,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Monipur, Dhaka",ChIJwxqYX4lBVDcRlvoJjqrXyZA
+Mahabur Rahoman Memorial Hospital And Nursing Inestitute,23.7696554,90.8632314,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Rupasdi - Maddopara Road, Rupasdi",ChIJjeqou9c_VDcR6EBQT6-52K8
+দৌলতপুর কমিউনিটি ক্লিনিক,23.7288601,90.8236487,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","দৌলতপুর ঈদগাহ রোড, Doulotpur",ChIJNaWL5olHVDcR4aGyVpd05d0
+ঢাকা ডেন্টাল,23.7128182,90.9438468,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Muradnagar Upazila,ChIJFdRb_BdrVDcRHaZypv1ochI
+Uzirpor Hospital,23.4813367,90.867472,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Chandina Upazila,ChIJ3crZqixcVDcRrzwpS9tk47w
+মা ও মেডিকেল হল,23.4949809,90.7978677,5,4,"['hospital', 'health', 'point_of_interest', 'establishment']",Daudkandi Upazila,ChIJzXEdGMlbVDcRXsPwDbaoqIk
+Gouripur City Hospital,23.5393618,90.7842367,4,5,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJgSNPsOVaVDcRYZfWL_bqO7g
+Green Lab Hospital,23.5393726,90.783552,4,8,"['hospital', 'health', 'point_of_interest', 'establishment']",Gouripur,ChIJ2eeztuVaVDcRnYsXoQ-vNUg
+Chatuli Community Clinic,23.5309637,90.914528,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Debidwar Upazila,ChIJN0PqellnVDcRufw3PaJmSV0
+ইলমা হোমিও সেন্টার,23.5305792,90.9140851,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Rajameher,ChIJb7U1iVFnVDcRYxP7vDWuCcM
+Gandra Hospital,23.537713,90.8999777,5,2,"['hospital', 'health', 'point_of_interest', 'establishment']",Unnamed Road,ChIJD1h2hyVdVDcRu2G2szaXfhY
+Paharpur Health Complex,23.5537887,90.906643,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Muradnagar Upazila, Paharpur, Muradnager, Comilla, Chittagong",ChIJ45mTFfZnVDcRiKaF8c_Q0Ys
+Bismillah Farmisi,23.5506589,90.9277375,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Panti - Rajamehar Road, Rajameher",ChIJURzwcY9nVDcRGmvVZg7lkoI
+"Grandra Hospital, Grandra-3519",23.5554114,90.8787886,5,1,"['hospital', 'health', 'point_of_interest', 'establishment']",Muradnagar Upazila,ChIJgZ1HHTtdVDcRf5IBj7p1PkE
+খুরুইল কমিউনিটি ক্লিনিক,23.5756832,90.9292372,2,1,"['hospital', 'health', 'point_of_interest', 'establishment']","Krisnapur, Madhiya - Rajamehar Road, Noakhala",ChIJI3btQTtpVDcRKao9jRbry6M
+sumon madical,23.5053773,90.9091388,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কুটুম্বপুর-মুরাদপুর,ChIJ-xSgp31nVDcRTAwi5wg8HmI
+sumon madical hall,23.5047667,90.9090606,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","kutumbapur shaharper, chandina",ChIJYz4yTGxnVDcRyHVjj5G67Zo
+ডাঃমোঃজাহাঙ্গাীর আলম সরকার,23.5716748,90.9409364,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Dakshin Gunaighar",ChIJNTC7FSBpVDcRLBkhhesjQDU
+গ্রাম খিলাইল পার,23.5347911,90.8707041,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",Eliotgonj-Muradnagar Road,ChIJM9fItOJdVDcRzO72KxllX9k
+সুমন মেডিকেল হল,23.4986321,90.9082201,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']",কুটুম্বপুর-মুরাদপুর,ChIJm_cT55xnVDcRb5F4WCEYXy8
+Madhaiya General Hospital,23.5036749,90.9388912,4,7,"['hospital', 'health', 'point_of_interest', 'establishment']","Madhaiya Bazar, Chandina,Comilla-3511, N1",ChIJmY6vTRlnVDcRSdGwQdAybJ0
+নিউ জননি মেডিকেল সেন্টার ও হাসপাতাল,23.5025886,90.9393203,4,2,"['hospital', 'health', 'point_of_interest', 'establishment']","Madhya to Michael,Nawabpur,Kachua Chandpur Road, Bhani",ChIJbV9Tyh5nVDcRlxwFP4KrSKE
+Madhaiya Mim Hospital,23.5025622,90.9393136,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Madhaiya, Dhaka - Chittagong Highway, Chandina",ChIJrfuEtfZnVDcRCVubZC0P7pI
+Siddheshwari Govt. Hospital,23.5891056,90.9263207,not found,not found,"['hospital', 'health', 'point_of_interest', 'establishment']","Unnamed Road, Siddheshwari",ChIJVQG0UQppVDcRuPq0urADB1E
